@@ -10,21 +10,20 @@ rights: Creative commums
 
 # Research plan:
 
-Our research plan will last two weeks. Starting on November 15 and finishing on November 29.
+Our research plan will last two weeks. Starting on November 15 and finishing on November 29. 
 
-The first task we have done is defining the scope of our research and the objectives we want to obtain after those two weeks.
+As we wanted to focus our application on 18 to 22 years old university undergraduate boys and girls who are not experts on dating and want to improve their abilities to meet and to flirt with people.
+We focus on undergraduate students because it’s the period when most of the young people starts their romantic relationships. So it’s the best time when we can help them.
+That’s why we planned to look mainly for university students and that’s why most of our interviews were done on a faculty.
 
-Our main objectives are creating the persona hypothesis, getting as much information as possible from our targeted users through experimental interviews and investigating our competitors on the competitive analysis.
+We had expected to have several interviews because young people would find our idea interesting but at the same time we expected them to be really short in duration.
 
-The persona hypothesis starts defining the kind of users of our system: 18 to 22-year old university undergraduate males and females who are not experts on dating and want to improve their abilities to meet and flirt with people.
 
-We are going to change their behavior when meeting new people and how they conduct new dates. The idea is giving hints and advices to drive the conversation and getting insights from the other person.
+When we talk about the actual interviews we have two very different sets:
+A group of five people that we interviewed on the street and gave us just around 5-10 minutes interviews from which we got a basic view about what people thinks of this kind of apps and what they do expect about em.
+A group of 3 people that we interview on a faculty cafeteria and gave us around 20 minutes interviews. Perfect to extract big amounts of info. We got into more details about what they would want our app to do and what they would find really useful.
 
-We focus on undergraduate students because it’s the period when most young people start their romantic relationships. So it’s the best time when we can help them.
-
-In order to validate our assumptions we will include some questions related to their needs in our our experimental interviews.
-
-Finally, we will define the competitive analysis. Our main goal is finding other systems similar to us and getting inspiration from other ideas on augmented reality and dating.
+In conclusion we think that we got quite good information because we could answer all the questions that we had for the app and we got a quite clear view about what people wants for an app like ours.
 
 # Interviews
 
