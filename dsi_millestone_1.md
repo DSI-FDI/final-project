@@ -8,7 +8,7 @@ author:
 rights: Creative commums
 ---
 
-# Research plan:
+# Research plan:
 
 Our research plan will last two weeks. Starting on November 15 and finishing on November 29.
 
@@ -16,13 +16,13 @@ The first task we have done is defining the scope of our research and the object
 
 Our main objectives are creating the persona hypothesis, getting as much information as possible from our targeted users through experimental interviews and investigating our competitors on the competitive analysis.
 
-The persona hypothesis starts defining the kind of users of our system: 18-22 years old university undergraduate boys and girls who are not experts on dating and want to improve their abilities to meet and to flirt with people.
+The persona hypothesis starts defining the kind of users of our system: 18 to 22-year old university undergraduate males and females who are not experts on dating and want to improve their abilities to meet and flirt with people.
 
-We are going to change their behaviour on meeting new people and how they will conduct new dates. The idea is giving hints and advices to conduct the conversation and getting insights from the other person.
+We are going to change their behavior when meeting new people and how they conduct new dates. The idea is giving hints and advices to drive the conversation and getting insights from the other person.
 
-We focus on undergraduate students because it’s the period when most of the young people starts their romantic relationships. So it’s the best time when we can help them.
+We focus on undergraduate students because it’s the period when most young people start their romantic relationships. So it’s the best time when we can help them.
 
-In order to validate our assumptions we will include some questions related to their needs in our our experimentals interviews.
+In order to validate our assumptions we will include some questions related to their needs in our our experimental interviews.
 
 Finally, we will define the competitive analysis. Our main goal is finding other systems similar to us and getting inspiration from other ideas on augmented reality and dating.
 
@@ -30,27 +30,27 @@ Finally, we will define the competitive analysis. Our main goal is finding other
 
 We have created a group of questions for our interviews. We have grouped them to go from general/soft questions to deeper and more targeted questions.
 
-There are a plenty of questions, but the idea is not to use all of them in our experimental interviews,but to have a general structure. We will adapt the questions depending on the conversation or insights we receive from the user on our interviews. The full questions and answers can be found in the interview transcripts provided.
+Even though there are plenty of questions, the idea is not to use all of them in our experimental interviews. Rather, we want to have a general structure. We will adapt the questions depending on the conversation or insights we receive from the user on our interviews. The full questions and answers can be found in the interview transcripts provided.
 
-Also, we will make some short interviews (around 5 minutes) to get some inputs and a general perspective. And also we will make some long and mid-length interviews (around 20 minutes) for a reduced group of targeted users to gain deeper knowledge.
+We will make some short interviews (around 5 minutes) to get some general input and perspective in conjunction with long and mid-length interviews (around 20 minutes) for a reduced group of targeted users to gain deeper knowledge.
 
 ### Get to know the user:
 
 - What is your name?
 - How old are you?
-- What do you study? When?
-- Are you single or partnered?
+- What do/did you study? When? Where?
+- Are you single?
 - Tell us more about your love adventures
 - Do you like men or women?
 
-### Dating skills:
+### Dating skills:
 
 - Where and how do you meet new girls or boys?
 - Where do you normally like to make a date?
 - How do you feel while dating?
-- On what situations do you feel: comfortable, shy...?
-- What is your strategy to date a girl or boy?.
-- How do you like to treat woman/man during the date?
+- When would you say you feel most comfortable? And most shy?
+- What is your strategy for dating?.
+- How do you like to treat the other person during the date?
 
 ### Friends/Apps help:
 
@@ -58,30 +58,29 @@ Also, we will make some short interviews (around 5 minutes) to get some inputs a
 - How does he/she help you?
 - Which application(s) do you use to date?
 - How do you feel using this app?
-  * What are your goals while using this app
+  * What are your goals while using this app?
   * How do you feel about people using this app?
   * What do you think about people using it?
   * What are the main drawbacks of dating applications?
 
-### Our app:
+### Our app:
 
-- How could a dating application  help you to date?
+- How could a dating application help you date?
 - What information is most useful when you have a date?
-- What information do you wish to know about your partner on the date?
-- What reactions do you want to know about your partner on the date?
-- Where would you use the application in a bar, restaurant, pub… etc?
+- What information do you wish you knew about your partner on the date?
+- Would you like additional information about your partner's reactions? What sort of information?
+- Where would you use this application?
 
 # Factoids
 
-### Get to know:
+### Get to know:
 
 - Most users were between 19 and 21 years old. One user was 27 years old.
 - Most users were university students.
 - Paula was homosexual the rest were heterosexual.
-- Dating skills:
-- Most of the man use chats to organize dates
-- People normally feel nervous or shy when starting the date
-- Most of the people want to feel the date is comfortable and relaxing.
+- Most men used chats to organize dates.
+- People normally felt nervous or shy when starting the date,
+- Most people wanted to feel a date is comfortable and relaxing.
 - Many people would find it useful to know the other person’s emotional state at any given time.
 - At least three users would like to be notified when they approached a dangerous conversation topic.
 - Every user wanted every notification to be subtle, so as to pay full attention to the date.
@@ -90,57 +89,54 @@ Also, we will make some short interviews (around 5 minutes) to get some inputs a
 - One user recommended to dress comfortably (i.e. not changing one’s style) for the first date.
 - Most users thought that being themselves was the most valuable skill when dating.
 
-### Family, friends help.
+### Family, friends help.
 
-- One user was advised to act naturally.
-- More than 50% of the people perceive friends advices as wrong.
-- The number one advice the users gave and received was to “be oneself”.
+- One user was advised to act naturally by her friends.
+- More than 50% of the people perceive their friends' advices as wrong.
+- The most prominent advice the users gave and received was to “be oneself”.
 - One user recommended his friends to avoid specific gestures (e.g. crossed arms, fiddling...) during a date.
 - One user thought that if he were there to counsel his friends during a date, the date would go better.
-Where do you find people?
 - The vast majority of the users find people on public places: University, Clubs, Subway, Street, Coffee.
 - One user found his current partner at work.
 
 ### How do you find new people?
 
-- Almost every user know people by being friends of friends.
+- Almost every user met people by common acquaintances.
 - One user found his couple on Tinder
-- University work groups.
+- Some users met new people in University work groups.
 
-### First dates: places and plans where the person dates.
+### First dates: places and plans where the person dates.
 
-- More than 65% of people prefer the night and the rest afternoon.
-- Most people preferred a location where they could talk (i.e. cafeteria), as opposed to not (i.e. a cinema, a theater, cool bars, restaurant).
-- Two users said they like to date on art places (museums, exhibition galleries) because you can talk and share a common hobby.
+- More than 65% of people preferred dating at night. The rest preferred the afternoon.
+- Most people preferred a location where they could talk (i.e. cafeteria), as opposed to not (i.e. a cinema, a theater, cool bars, restaurant) for a date.
+- Two users said they liked to date on art places (museums, exhibition galleries) because one can talk and share a common hobby.
 - One user mentioned that he would put the other person’s preference ahead of his own when choosing a place for  the date. However, the same user said that he’d recommend that his shy friends choose a place that suits them better, so as to be more confident.
 - Most male users preferred organizing the first date themselves.
 - One user thought that it’s good to have a planned escape from the first date to be able to leave it when the interest peaks (e.g. a paper to deliver).
-- What are you looking for in a partner?
-- Some girls want to find a long-term relationship and a person who has common hobbies.
-- One girl is looking for a guy older than she because she wants maturity, stability and comprehension.
+- Some girls wanted to find a long-term relationship and a person with hobbies in common.
+- One girl is looking for a guy older than her because she wants maturity, stability and comprehension.
 - Most interviewed people rated the other person’s hobbies and tastes as very important to know beforehand.
 - Two users thought it important to know the other person’s life plan and goals beforehand.
 - One user appreciated knowing the other person’s relationship with his/her family beforehand.
-- One user wants to be compatible
+- One user wanted to be compatible.
 
-### Friends/Apps help:
+### Friends/Apps help:
 
-- Some friends push to make the first approach.
+- Some users' friends pushed to make the first approach.
 - Friends provide some advice, but sometimes the person doesn’t find them valuable.
 - One user found their friends’ advice correct, but didn’t carry it out due to shyness.
 - The most common advice the users gave to their friends was to be themselves.
-- One user wants from the app ideas for talking during the date (Sergio)
-- One user wants to know whether he is exceeding limits and general feelings of the other person.
-- One user thinks it’s useful to know the name of the girls that have been with the other person.
-- Motivation and feelings regarding the app
-- Most of the people feels that using this app is artificial, and is better and more funny to have dates naturally
-- Two users want to use this app to catch liars.
-- One user thinks that discovering things of the other person is fascinating, but wants to know few things to make the conversation flew  but afterward he says that knowing feelings is artificial
+- One user wanted ideas for talking during the date (Sergio).
+- One user wanted to know whether he was exceeding limits and general feelings of the other person.
+- One female user thought it useful to know the name of the girls that have been with the other person.
+- Most of the people felt that using this app was artificial, and it's better and more funny to have dates naturally.
+- Two users wanted to use this app to catch liars.
+- One user thought that discovering things of the other person is fascinating, but wants to know few things to make the conversation flew  but afterward he says that knowing feelings is artificial
 
 ### Others
 
-- Most of the users wants a notification as the mean of communicating what the app think is important
-- One user thinks is better to have available always the biography of the other person.
+- Most of the users wanted a notification as the means of communicating what the app thinks is important
+- One user thought it was better to have the biography of the other person always available.
 - Paula is an antipersona.
 
 # Competitive Study
@@ -180,7 +176,7 @@ The center of the viewport is mostly clean of clutter. The main object (usually 
 - In some applications (NameTag) faces are placed at the left. This is due to the fact that when looking up left we connect with the memoristic part of our brain, for example to remember images. Also menus are placed on the right.  At looking to the right we get in contact with the mental construction in our brain, that is used for example for things which we don’t have direct experience like an unknown track in Google Maps (deeper info https://lenguajecorporal.org/descifrando-los-movimientos-de-los-ojos-estamos-recordando-o-estamos-inventando/ ).
 - In Xpert-EYE experts can draw directly in the viewport so we can teach at real time.
 
-### Competitive analysis: process summary
+### Competitive analysis: process summary
 
 When making the competitive analysis firstly we tried to find applications already available in the market, that fit with ours. It was not possible.
 
