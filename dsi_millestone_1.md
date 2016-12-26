@@ -10,7 +10,7 @@ rights: Creative commums
 
 # Research plan:
 
-Our research plan will last two weeks. Starting on November 15 and finishing on November 29. 
+Our research plan will last two weeks. Starting on November 15 and finishing on November 29.
 
 As we wanted to focus our application on 18 to 22 years old university undergraduate boys and girls who are not experts on dating and want to improve their abilities to meet and to flirt with people.
 We focus on undergraduate students because it’s the period when most of the young people starts their romantic relationships. So it’s the best time when we can help them.
@@ -27,11 +27,41 @@ In conclusion we think that we got quite good information because we could answe
 
 # Interviews
 
-We have created a group of questions for our interviews. We have grouped them to go from general/soft questions to deeper and more targeted questions.
+## Preparation + process
+
+We started to think what kind of people are we interested in and also what are we expecting to know/learn from them. So we can move forward in the milestone.
+
+In our first brainstorming we came to the conclusion that the university students are the most representative sample for our interviews. Because the university period is where most of the people start dating and building long-term relationships.
+
+Moreover, we decided in which places and faculties we could find the best people for the sample. So we chose the following places: faculty of medicine (UCM), faculty of journalism (UCM), Moncloa bus station, Moncloa Bar.
+
+Why we picked this places?:
+
+- Restaurant. Faculty of journalism (UCM): Generally they are social and open-minded..
+
+- Restaurant. Faculty of medicine (UCM): normally these students are smart and they are normally really busy with the university. So they don't have much time for dating because their degree is high demanding.
+
+- Bus. Moncloa station: Moncloa is a good place for finding students because they normally life in this area. So will find a targeted selection of young people.
+
+- Bar. Moncloa: same reasons from previous point (Bus. Moncloa station) but in this case the interviews will take place in a bar. So we can conduct longer interviews.
+
+We think university restaurants are a good place for doing longer interviews (around 20-30 minutes) because the people are relaxed and more open to talk.
+
+Also we want to explore shorter and faster interviews, so we move outside to Moncloa. Moncloa is a place close to the university where many students life. So there are high probabilities to find our targeted users.
+
+## Expectations
+
+We expect to obtain as much information as possible about dating habits from the students. Also, we want to know more about their needs when meeting new people and how we can help them in order to have a relationship.
+
+## Goals
+
+We have created a group of questions for our interviews. We grouped them to go from general/soft questions to deeper and more targeted questions.
 
 Even though there are plenty of questions, the idea is not to use all of them in our experimental interviews. Rather, we want to have a general structure. We will adapt the questions depending on the conversation or insights we receive from the user on our interviews. The full questions and answers can be found in the interview transcripts provided.
 
 We will make some short interviews (around 5 minutes) to get some general input and perspective in conjunction with long and mid-length interviews (around 20 minutes) for a reduced group of targeted users to gain deeper knowledge.
+
+## Interview questions
 
 ### Get to know the user:
 
@@ -69,6 +99,22 @@ We will make some short interviews (around 5 minutes) to get some general input 
 - What information do you wish you knew about your partner on the date?
 - Would you like additional information about your partner's reactions? What sort of information?
 - Where would you use this application?
+
+## Results of the interviews
+
+We are super happy with the results of our interviews. We obtained many useful information about our users (feelings, needs, goals, fears...).
+
+We realized many people are looking for a relationship but they don't feel confident and sure about how dating and being successful.
+
+Two or three of us were on each interview. One was the interviewer and the rest of the team were taking notes or making the recording.
+
+Also we did some experiments. In one interview, there were 2 interviewers. The principal interviewer was conducting the interview and the support interviewer asked some questions for getting deeper information.
+
+This worked really well, because the 2 interviewers were working together and obtained more information than the 1-1 interviews. That's because sometimes you can forget to ask something but the support interviewer will help you out.
+
+We dedicated some days for making the interviews. And the last day we worked together for making the transcripts (from audio to text).
+
+In general terms, we are proud of all the information we obtained and also we did a great team work. It was fun and cool to met other students and our expectations were fulfill.
 
 # Factoids
 
