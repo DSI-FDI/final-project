@@ -182,28 +182,42 @@ In general terms, we are proud of all the information we obtained and the great 
 
 # Competitive Study
 
-### Motivations and focus
+## Motivations and focus
 
-Our competitive study focuses mostly on exploring the existing (albeit small) design space around Augmented Reality (AR) technologies, focusing mostly on Google Glass and [Atheer](https://www.youtube.com/watch?v=Pk2Lp0R9obc). Due to the limited market adoption of the Glass, not much design work has been made, which leaves ample space for exploration in design. However, Google provides [design principles and patterns](https://developers.google.com/glass/design/patterns) to aid the developers in forming a common framework for app design.
+Our competitive study focuses mostly on exploring the existing (albeit small) design space around Augmented Reality (AR) technologies, examining Google Glass and [Atheer](https://www.youtube.com/watch?v=Pk2Lp0R9obc). Due to the limited market adoption of the Glass, not much design work has been made, which leaves ample space for exploration in design. However, Google provides [design principles and patterns](https://developers.google.com/glass/design/patterns) to aid the developers in forming a common framework for app design.
 
 
-With regard to other dating apps (e.g. Tinder), our analysis was very shallow, since these apps focus mostly on matching people via smartphone, whereas our idea was to tackle the stages following that, once a date has been agreed upon face to face.
+With regard to other dating apps (e.g. Tinder), our analysis was very shallow, since these apps focus mostly on **matching people** via smartphone, whereas our idea was to tackle the **stages following** that, once a date has been agreed upon face to face.
 
-### Related apps / Competitors
+## Competitive analysis: process summary
 
-#### Google Glass
+When making the competitive analysis firstly we tried to find applications already available in the market that fit with ours. It was not possible.
+
+We wanted to search some design features in dating apps, but none of these application was an interesting example because it is not very convenient to compare two types of apps with so different objectives. Dating apps are focused on meeting new possible partners by means of a chat, whereas our application makes sense in the “real world” when dating people face to face.
+
+Due to these problems we decided to turn our ideas around. We decided to focus on similar technological approaches such as applications for Google Glass. We got useful information about how the human-machine interaction should be when having the limitations of google glasses or in our case, contact lenses.
+
+Nevertheless, Google Glass is a very different technology than ours, since it is limited to a small screen in the upper-right part on the glasses. Our technology has the capability of showing output information in the entire line of sight of the user.
+
+For that reason and despite  Google Glass being a good researching field, we found another gadget very similar to our goals. Atheer is a virtual reality approach that is near to our ideas on how the final application should interact with the user. Also it’s important to say that we have focused in some concrete applications to measure the power of this kind of gadgets and how to use them.
+
+Since users don't have experience with this new technology there will not be any user expectation, So we haven't included the design takeaways in the factoids.
+
+## Related apps / Competitors
+
+### Google Glass
 
 - [Name Tag](https://www.youtube.com/watch?v=43oo41Nnvfw): An application that reads the face of the person in front and searches the internet for their online presence, revealing a stream of personal data. It was [discontinued](http://www.nametag.ws/) due to privacy reasons, and Google [publicly announced](http://www.huffingtonpost.com/2011/06/01/facial-recognition-google_n_869583.html) itself against this sort of technology. Note that the query results are displayed on the left of the HUD, from top to bottom.
 - [Xpert EYE](http://www.amaxperteye.com/fr/): An enterprise product designed to allow real-time communication in sensitive operations between experts and other employees. It is currently being used in time-critical missions such as [medical situations](https://www.youtube.com/watch?v=L7sGnkbE_Yk), where the presence of an expert would be beneficial but is not always possible. However, this app provides a HUD that is sparse at best, and the only way for the experts to provide instructions is via voice commands.
 - [APX Skylight](https://apx-labs.com/glassatwork/): Another enterprise product, this time aiming to virtualize the steps necessary for the maintenance and repair of appliances. It offers a detailed HUD with real-time information for precision-critical systems, in addition to Telestration (instructions given via video chat).
 - [Google Glass Navigation](https://www.youtube.com/watch?v=Ctzc8QSF6mQ&feature=youtu.be&t=10m46s): The navigation inside the menus themselves can provide great information and a working example of the design patterns depicted earlier. To note is that the information flows sideways for context switching (e.g. changing from a weather forecast to a Twitter feed), and forwards and backwards (i.e. deepening and shallowing) to move within a context. For example, one can move sideways to reach the notification feed, up and down to browse notifications, and backwards (shallowing) to see the available actions with a given notifications (e.g. Retweet/Favorite/Share a tweet). Some additional demos can be found [here](https://www.youtube.com/watch?v=d-y3bEjEVV8&feature=youtu.be&t=1m36s) and [here](https://www.youtube.com/watch?v=V8ofTlynWPo).
 
-#### Atheer
+### Atheer
 
 - [Flex](https://www.youtube.com/watch?v=tFVHVpe9Od4): Used in warehouses, it allows for a fast scan and completion of an order. Note the information displayed in minute 1:40, with the middle part of the viewport clean of distractions, and all other information displayed on the sides via icons. Note also the three types of controls: Hand gestures, voice and head tilting.
 - [Atheer DevKit](https://www.youtube.com/watch?v=sYlDevvcdEw): A display of how the hand gestures combine with existing android applications to be used easily. This focuses on direct manipulation of 2D and 3D objects.
 
-### Design Takeaways
+## Design Takeaways
 
 - A more immersive experience (when the entire viewport is subject to display AR data) is preferable to a smaller more localized display (Atheer vs Glass). However, this immersion does not overlap well with the real world, at least for now.
 - Atheer places a greater emphasis on hand gestures, as opposed voice commands.
@@ -216,20 +230,3 @@ Usually, there are no more than 7 or 8 widgets on display (in the case of Atheer
 The center of the viewport is mostly clean of clutter. The main object (usually the real world) goes in the center of the application.
 - In some applications (NameTag) faces are placed at the left. This is due to the fact that when looking up left we connect with the memoristic part of our brain, for example to remember images. Also menus are placed on the right.  At looking to the right we get in contact with the mental construction in our brain, that is used for example for things which we don’t have direct experience like an unknown track in Google Maps (deeper info https://lenguajecorporal.org/descifrando-los-movimientos-de-los-ojos-estamos-recordando-o-estamos-inventando/ ).
 - In Xpert-EYE experts can draw directly in the viewport so we can teach at real time.
-
-### Competitive analysis: process summary
-
-When making the competitive analysis firstly we tried to find applications already available in the market, that fit with ours. It was not possible.
-
-We wanted to search some design features in dating apps, none of these application was an interesting example because it is not very convenient to compare two types of apps  with so different objectives. Dating apps are focused on knowing new possible couples by means of a chat, on the other hand, our application makes sense in the “real world” when meeting people face to face.
-
-Due to these problems we decided to turn around our ideas. We decided to focus on similar technological approaches such as applications for Google Glass. We got useful information about how the human-machine interaction should be when having the limitations of google glasses or in our case, contact lenses .
-
-Nevertheless, Google Glass is a very different technology than ours, since it is limited to a small screen in the upper-right part on the glasses.
-
-Our technology has the capability of showing output information in the entire line of sight of the user.  
-For that reason and despite  Google Glass being a good researching field, we found another gadget very similar to our goals.
-
-Atheer is a virtual reality approach that is near to our anticipation on how the final application should interact with the user. Also it’s important to say that we have focused in some concrete applications to measure the power of this kind of gadgets and how to use them.
-
-Since users don't have experience with this new technology there will not be any user expectation. So we haven't included the design takeaways in the factoids.
