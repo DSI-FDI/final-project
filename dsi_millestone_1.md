@@ -5,7 +5,7 @@ author:
   - García Ferreiro, Jorge
   - Reyes Parrilla, Daniel
   - Lorente Escobar, Borja
-rights: Creative commums
+rights: Creative Commons - BY-NC
 ---
 
 # Research plan:
