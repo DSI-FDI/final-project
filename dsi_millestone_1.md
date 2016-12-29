@@ -120,7 +120,7 @@ In general terms, we are proud of all the information we obtained and the great 
 - Most users were university students.
 - Paula was homosexual the rest were heterosexual.
 - Most men used chats to organize dates.
-- People normally felt nervous or shy when starting the date,
+- People normally felt nervous or shy when starting the date.
 - Most people wanted to feel a date is comfortable and relaxing.
 - Many people would find it useful to know the other person’s emotional state at any given time.
 - At least three users would like to be notified when they approached a dangerous conversation topic.
@@ -149,8 +149,8 @@ In general terms, we are proud of all the information we obtained and the great 
 ### First dates: places and plans where the person dates.
 
 - More than 65% of people preferred dating at night. The rest preferred the afternoon.
-- Most people preferred a location where they could talk (i.e. cafeteria), as opposed to not (i.e. a cinema, a theater, cool bars, restaurant) for a date.
-- Two users said they liked to date on art places (museums, exhibition galleries) because one can talk and share a common hobby.
+- Most people preferred a location where they could talk (e.g. cafeteria), as opposed to not (e.g. a cinema, a theater, cool bars, restaurant) for a date.
+- Two users said they liked to date on artistic places (museums, exhibition galleries) because one can talk and share a common hobby.
 - One user mentioned that he would put the other person’s preference ahead of his own when choosing a place for  the date. However, the same user said that he’d recommend that his shy friends choose a place that suits them better, so as to be more confident.
 - Most male users preferred organizing the first date themselves.
 - One user thought that it’s good to have a planned escape from the first date to be able to leave it when the interest peaks (e.g. a paper to deliver).
@@ -172,11 +172,11 @@ In general terms, we are proud of all the information we obtained and the great 
 - One female user thought it useful to know the name of the girls that have been with the other person.
 - Most of the people felt that using this app was artificial, and it's better and more funny to have dates naturally.
 - Two users wanted to use this app to catch liars.
-- One user thought that discovering things of the other person is fascinating, but wants to know few things to make the conversation flew  but afterward he says that knowing feelings is artificial
+- One user thought that discovering things of the other person is fascinating, but wanted to know a few things to make the conversation flow.
 
 ### Others
 
-- Most of the users wanted a notification as the means of communicating what the app thinks is important
+- Most users wanted a notification as the means of communicating what the app thinks is important.
 - One user thought it was better to have the biography of the other person always available.
 - Paula is an antipersona.
 
