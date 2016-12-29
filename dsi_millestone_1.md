@@ -10,56 +10,54 @@ rights: Creative Commons - BY-NC
 
 # Research plan:
 
-Our research plan will last two weeks. Starting on November 15 and finishing on November 29.
+Our research plan will last two weeks, starting on November 15th and finishing on November 29th.
 
-As we wanted to focus our application on 18 to 22 years old university undergraduate boys and girls who are not experts on dating and want to improve their abilities to meet and to flirt with people.
-We focus on undergraduate students because it’s the period when most of the young people starts their romantic relationships. So it’s the best time when we can help them.
-That’s why we planned to look mainly for university students and that’s why most of our interviews were done on a faculty.
+Our initial focus were 18 to 22-year-old university undergraduate boys and girls who are not experts on dating and want to improve their abilities to meet and flirt with people.
+We chose undergraduate students because it’s the period when most young people start their romantic relationships, so it’s the time where we can help them the most.
+That’s why we planned to look mainly for university students and therefore most of our interviews were done various faculty buildings.
 
-We had expected to have several interviews because young people would find our idea interesting but at the same time we expected them to be really short in duration.
+We expected to have several interviews because young people would find our idea interesting, but at the same time we expected them to be really short in duration.
 
 
-When we talk about the actual interviews we have two very different sets:
-A group of five people that we interviewed on the street and gave us just around 5-10 minutes interviews from which we got a basic view about what people thinks of this kind of apps and what they do expect about em.
-A group of 3 people that we interview on a faculty cafeteria and gave us around 20 minutes interviews. Perfect to extract big amounts of info. We got into more details about what they would want our app to do and what they would find really useful.
+After completing the interviews, we ended up with two very different sets of data:
+A group of five people that we interviewed on the street and gave us just around 5-10 minutes interviews, from which we got a basic view about what people think of this kind of apps and what they expect from them.
+A group of 3 people that we interviewed on a faculty cafeteria and gave us around 20 minutes interviews, perfect to extract large amounts of information. We got into more detail about what they would want our app to do and what they would find really useful.
 
-In conclusion we think that we got quite good information because we could answer all the questions that we had for the app and we got a quite clear view about what people wants for an app like ours.
+In conclusion, we think that we got quite good information because we could answer all the questions that we had for the app and we got a clear view about what people want from an app like ours.
 
 # Interviews
 
 ## Preparation + process
 
-We started to think what kind of people are we interested in and also what are we expecting to know/learn from them. So we can move forward in the milestone.
+We started to think what kind of people we were interested in and also what we expected to learn from them.
 
-In our first brainstorming we came to the conclusion that the university students are the most representative sample for our interviews. Because the university period is where most of the people start dating and building long-term relationships.
+In our first brainstorming we came to the conclusion that the university students are the most representative sample for our interviews, because the university period is where most of the people start dating and building long-term relationships.
 
-Moreover, we decided in which places and faculties we could find the best people for the sample. So we chose the following places: faculty of medicine (UCM), faculty of journalism (UCM), Moncloa bus station, Moncloa Bar.
+Moreover, we thought about which places and faculties would offer the best people for the sample, and we chose the following places: Faculty of Medicine (UCM), Faculty of Journalism (UCM), Moncloa bus stations and Moncloa Bars.
 
 Why we picked this places?:
 
-- Restaurant. Faculty of journalism (UCM): Generally they are social and open-minded..
+- Restaurants, Faculty of journalism (UCM): Generally journalism students are social and open-minded. Besides, we thought that they would be used to giving and receiving interviews for their own courses.
 
-- Restaurant. Faculty of medicine (UCM): normally these students are smart and they are normally really busy with the university. So they don't have much time for dating because their degree is high demanding.
+- Restaurants, Faculty of medicine (UCM): normally these students are smart and they are usually really busy with the university. Therefore they don't have much time for dating because their degree is highly demanding. We thought these circumstances could provide interesting data about what they find most important, since they cannot waste time.
 
-- Bus. Moncloa station: Moncloa is a good place for finding students because they normally life in this area. So will find a targeted selection of young people.
+- Bus, Moncloa station: Moncloa is a good place for finding students because they normally live in this area. So here we thought we'd find a targeted selection of young people.
 
-- Bar. Moncloa: same reasons from previous point (Bus. Moncloa station) but in this case the interviews will take place in a bar. So we can conduct longer interviews.
+- Bar, Moncloa: Same reasons from previous point (Bus. Moncloa station), but in this case the interviews will take place in a bar, so we can conduct longer interviews.
 
-We think university restaurants are a good place for doing longer interviews (around 20-30 minutes) because the people are relaxed and more open to talk.
+We thought university restaurants were a good place for doing longer interviews (around 20-30 minutes), because the people would be relaxed and more open to talk.
 
-Also we want to explore shorter and faster interviews, so we move outside to Moncloa. Moncloa is a place close to the university where many students life. So there are high probabilities to find our targeted users.
+Also, we wanted to explore shorter and faster interviews, so we moved outside to Moncloa. Moncloa is a place close to the university where many students life. So there are high probabilities to find our targeted users.
 
 ## Expectations
 
-We expect to obtain as much information as possible about dating habits from the students. Also, we want to know more about their needs when meeting new people and how we can help them in order to have a relationship.
+We expected to obtain as much information as possible about the dating habits of the students. Also, we wanted to know more about their needs when meeting new people and how we could help them in order to have a successful dating experience.
 
 ## Goals
 
-We have created a group of questions for our interviews. We grouped them to go from general/soft questions to deeper and more targeted questions.
+We created a group of questions for our interviews. We grouped them to go from general/soft questions to deeper and more targeted questions.
 
-Even though there are plenty of questions, the idea is not to use all of them in our experimental interviews. Rather, we want to have a general structure. We will adapt the questions depending on the conversation or insights we receive from the user on our interviews. The full questions and answers can be found in the interview transcripts provided.
-
-We will make some short interviews (around 5 minutes) to get some general input and perspective in conjunction with long and mid-length interviews (around 20 minutes) for a reduced group of targeted users to gain deeper knowledge.
+Even though there were plenty of questions, the idea was not to use all of them in our experimental interviews. Rather, we wanted to have a general structure, which we would adapt depending on the conversation or insights we received from the user on our interviews. The full questions and answers can be found in the interview transcripts provided.
 
 ## Interview questions
 
@@ -102,19 +100,17 @@ We will make some short interviews (around 5 minutes) to get some general input 
 
 ## Results of the interviews
 
-We are super happy with the results of our interviews. We obtained many useful information about our users (feelings, needs, goals, fears...).
+We are completely satisfied with the results of our interviews. We obtained many useful information about our users (feelings, needs, goals, fears...).
 
-We realized many people are looking for a relationship but they don't feel confident and sure about how dating and being successful.
+We realized that many people are looking for a relationship but they don't feel confident and sure about how to be successful at dating.
 
-Two or three of us were on each interview. One was the interviewer and the rest of the team were taking notes or making the recording.
+There were two or three of us at each interview. One was the interviewer and the rest of the team were taking notes or recording.
 
-Also we did some experiments. In one interview, there were 2 interviewers. The principal interviewer was conducting the interview and the support interviewer asked some questions for getting deeper information.
+We also did some experiments. In one interview, there were 2 interviewers. The principal interviewer was conducting the interview and the support interviewer asked some questions for getting deeper information. This worked really well, because the 2 interviewers were working together and obtained more information than the 1-1 interviews, since the support interviewer often caught on points which the main interviewer missed.
 
-This worked really well, because the 2 interviewers were working together and obtained more information than the 1-1 interviews. That's because sometimes you can forget to ask something but the support interviewer will help you out.
+We dedicated some days for making the interviews. And the last day we worked together for making the transcripts (from audio to text) and extracting the factoid list.
 
-We dedicated some days for making the interviews. And the last day we worked together for making the transcripts (from audio to text).
-
-In general terms, we are proud of all the information we obtained and also we did a great team work. It was fun and cool to met other students and our expectations were fulfill.
+In general terms, we are proud of all the information we obtained and the great team work we did. It was fun and cool to meet other students and our expectations were fulfilled.
 
 # Factoids
 
