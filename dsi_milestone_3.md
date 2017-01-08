@@ -11,25 +11,25 @@ Since the user will not be able to exercise much control over the application wh
 
 ##Catalog of data elements 
 These elements have been extracted directly from the requriements.
-1.Map
-..*Track to follow.
-..*Places to select.
-..*Distance between your location and the target place.
-2.Emotion
-..*Colour (for each emotion).
-3.Social network widget
-..*Profile picture.
-..*Pages followed.
-..*Interests.
-..*Friends in common.
-..*Former partners.
-4.Online encyclopedia
-..*Search bar.
-..*Title of the information.
-..*Well-organized information.
-..*Index.
-..*Related somehow with the social network widgets, because we shall be interested in searching the interests that we don’t understand about the other person.
-5.Intermittent notifications box
-..*Low intrusive appearance.
-..*Easy to read.
-..*Intermittent (it appears and disappears).
+1. Map
+..* Track to follow.
+..* Places to select.
+..* Distance between your location and the target place.
+2. Emotion
+..* Colour (for each emotion).
+3. Social network widget
+..* Profile picture.
+..* Pages followed.
+..* Interests.
+..* Friends in common.
+..* Former partners.
+4. Online encyclopedia
+..* Search bar.
+..* Title of the information.
+..* Well-organized information.
+..* Index.
+..* Related somehow with the social network widgets, because we shall be interested in searching the interests that we don’t understand about the other person.
+5. Intermittent notifications box
+..* Low intrusive appearance.
+..* Easy to read.
+..* Intermittent (it appears and disappears).
