@@ -1,8 +1,8 @@
 # Iteration 3
 
-A new team is in charge of the third iteration. Our approach will be different: start working on each of the 6 steps, adding new visions and ideas without being conditionated by the previous iteration. After the end of each step we compare this new ideas with the version from the previous iteration. And then we decide what new elements leave. At the end of this iteration  we will make new sketches, rewrite some parts of the documentation and prepare the work for the next iteration.
+A new team is in charge of the third iteration. Our approach will be different: start working on each of the 6 steps, adding new visions and ideas without being conditioned by the previous iteration. After the end of each step we compare this new ideas with the version from the previous iteration. And then we decide what new elements leave. At the end of this iteration  we will make new sketches, rewrite some parts of the documentation and prepare the work for the next iteration.
 
-Thanks to this approach we can work creatively and without any constrains from prior work, so the value of the new ideas is higher. This is truly important in order to think on new concepts completely free.
+Thanks to this approach we can work creatively and without any constraints from prior work, so the value of the new ideas is higher. This is truly important in order to think on new concepts completely free.
 
 ## 1. Form factor, postura and input method
 
@@ -21,23 +21,23 @@ Also we think some visions proposed on the previous iteration could be improved.
 
 - (new vision) Problem 1: a list of topics ordered by percentage of affinity with the girl will be shown on the screen. When Josh starts talking one of the topic from the list, the application will hide the topics. When Josh does not know what to say on some topic, the application will say Josh what to say on this topic. After some minutes, it will generate new topics. 
 
-- (new vision) Problem 3: The application will search all the avaliable information of the girl and will create a summary with the most relevant data. Josh will see (if he asks our application) a summary of the girl interests, hobbies, family members, common friends, basic information, etc. Then the  application will suggest 3 places to do the date (ranked based on the girl information). And finally, Josh can book the restaurant directly from the application.
+- (new vision) Problem 3: The application will search all the available information of the girl and will create a summary with the most relevant data. Josh will see (if he asks our application) a summary of the girl interests, hobbies, family members, common friends, basic information, etc. Then the  application will suggest 3 places to do the date (ranked based on the girl information). And finally, Josh can book the restaurant directly from the application.
 
-- (new vision) Problem 4: instead of the raw wikipedia information, the application will show a summery of the most relevant information from different sources (books, newspapers, blogs, wikipedia, etc). Moreover, the application will display 2 sentences to follow up the conversation in this topic.
+- (new vision) Problem 4: instead of the raw wikipedia information, the application will show a summary of the most relevant information from different sources (books, newspapers, blogs, wikipedia, etc). Moreover, the application will display 2 sentences to follow up the conversation in this topic.
 
 ###Form factor
 
-Our hardware (the lenses) is combined with software (augmented reality application) to offer a great user experience. The lenses are very comfortable and they are smothly integrated in the eyes, so this an advantage.
+Our hardware (the lenses) is combined with software (augmented reality application) to offer a great user experience. The lenses are very comfortable and they are smoothly integrated in the eyes, so this an advantage.
 
 Our product is integrated in the user eyes, so we have the possibility to create a 180 degrees interface. However, we only want to concentrate our design in very defined and **strategic areas** that will let the user to **interact naturally** while receiving a valuable information to have a successful date.
 
-Thanks to augmented reality we have plenty of posiblities to display all elements in the screen. But as we say in the prior paragraph, we are creating a layer on top of the real world that should be perform naturally. So at any time when a new data or notification is available the application will recognize the enviroment and decide how to adjust correctly the notification (color, size, etc). 
+Thanks to augmented reality we have plenty of possibilities to display all elements in the screen. But as we say in the prior paragraph, we are creating a layer on top of the real world that should be performed naturally. So at any time when a new data or notification is available the application will recognize the environment and decide how to adjust correctly the notification (color, size, etc). 
 
 **Night** is the time of the day where the vast majority of our users will use the application. For example, Josh, our primary persona normally hangs out on bars during night.
 
-However, we must take into account that people also dates during the **afternoon** before going to dinner. With this two concepts in mind, we think the best idea is to prioritaze the design decitions only for the night enviroment while validating the design on daylight too.
+However, we must take into account that people also dates during the **afternoon** before going to dinner. With this two concepts in mind, we think the best idea is to prioritize the design decisions only for the night environment while validating the design on daylight too.
 
-It's only neccesary to wear the lenses while dating. So, we need another way to interact with our product and review their previous dates on a daily basics. So in this iteration we have thought that a mobile app is really important to complement the lenses.
+It's only necessary to wear the lenses while dating. So, we need another way to interact with our product and review their previous dates on a daily basis. So in this iteration we have thought that a mobile app is really important to complement the lenses.
 
 This mobile app will be used normally during the day (for example, when they are at the university, taking food, etc). And the user will see a history of previous dates (where did they go, what topics did they speak and how was the date). Also this app will have the contact information of the girl and a list of contact methods (emails, mobile phones, etc).
 
@@ -45,7 +45,7 @@ This mobile app will be used normally during the day (for example, when they are
 
 From previous iteration we realised our application has enough potential to take more part on the dating process instead of being just a daemonic who only acts in the background.
 
-The application will have mainly a **transient posture** while dating. This is more helpful for Josh and non-intrusive (it will still have simple elements on the screen, very well placed and the information will not appear all the time). We changed our vision from iteration one because we realized Josh has serious problems while dating because he is really insecure and he needs more help to fell he has the control.
+The application will have mainly a **transient posture** while dating. This is more helpful for Josh and non-intrusive (it will still have simple elements on the screen, very well placed and the information will not appear all the time). We changed our vision from iteration one because we realized Josh has serious problems while dating because he is really insecure and he needs more help to feel he has the control.
 
 However, this transient posture will not be applicable all the time. The application will adopt a **daemonic posture** on intimate moments, when the user is feeling self-confident and secure. So this will let the passion and magic flow.
 
@@ -53,13 +53,13 @@ However, this transient posture will not be applicable all the time. The applica
 
 In this iteration we are defining in depth the input methods in order to give a proper vision of the product. 
 
-The **voice** is the primary input method. The lenses are listening for keywords/ senteces all the time and based on the audio it takes the correct action. This approach is the most unintrussive and elegant.
+The **voice** is the primary input method. The lenses are listening for keywords/sentences all the time and based on the audio it takes the correct action. This approach is the most unobtrusive and elegant.
 
 The application only recognizes the voice from the owner of the lenses. So if any other people around say some keywords, the app will ignore it.
 
 As we said, the voice is one of the main sources that the augmented reality app uses to work properly. But, the mobile app we introduced in this iteration uses **touch screen** to work. 
 
-Talking about inputs, we have to note that the application also receives information from the outside world: gestures, face expressions, voice of the girl, weather in the zone, reactions, etc. Althought these are not input methods from the user who is using the application, this is extremely related and it is really useful to know what information the application sensors will receive.
+Talking about inputs, we have to note that the application also receives information from the outside world: gestures, facial expressions, voice of the girl, weather in the zone, reactions, etc. Although these are not input methods from the user who is using the application, this is extremely related and it is really useful to know what information the application sensors will receive.
 
 ##2. Define functional and data elements
 
@@ -75,18 +75,18 @@ In the following list you can see a list of the requirements we will take into a
 	* The user can configure if he/she wants to see previous relationships history inside the girl summary.
 
 - The list of conversation topics are displayed in the screen taking into account the girl hobbies and knowledge.
-- A bunch of **senteces** to speak about a topic are generated and suggested to the user in the screen. This information is extracted from different sources: books, blogs, videos, wikipedia...
-- The voice recognizition system heards the user commands and take the correct actions.
+- A bunch of **sentences** to speak about a topic are generated and suggested to the user in the screen. This information is extracted from different sources: books, blogs, videos, wikipedia...
+- The voice recognition system hears the user commands and take the correct actions.
 - A sensor to identify the emotional state of the girl is required. The emotional state is calculated given different variables (gestures, expressions and voice), it's shown in the screen.
 - A non-intrusive approach should be taken when designing the application so the users can focus on the conversation while reading the extra information.
 - The app analyzes constantly the gestures, expressions and feelings from the other person and says how is she feeling.
-- A list of suggested places to have the date or to move in, ranked by girl preferences is shown. Also the application can book direclty. 
+- A list of suggested places to have the date or to move in, ranked by girl preferences is shown. Also the application can book directly. 
 
 ### Catalog of data elements
 
 Taking into account the information written in the prior block *Preparing the requirements* we are defining the data elements of the application.
 
-#### Summary of the girl
+#### Summary of the girl
 
 We need to display the following information:
 
@@ -105,25 +105,25 @@ Optionally, the user can configure the application to:
 - Suggest 3 topics to talk given the girl interests, background and hobbies.
 - Automatically display new topics when the girl is getting bored.
 
-This is related with the data element *Sentences to talk about a topic*. So first the topics are suggested and then the application propose smart and excellent senteces to say about the topic.
+This is related with the data element *Sentences to talk about a topic*. So first the topics are suggested and then the application propose smart and excellent sentences to say about the topic.
 
 #### Sentences to say about a topic
 
 When the user doesn't anything about a topic or maybe he doesn't know what to say, the application will help him to say smart and excellent sentences. 
 
-In order to acomplish this, we need:
+In order to accomplish this, we need:
 
 - Propose a list of 3 sentences to say about the topic.
 - Obtain the information from many sources and create a valuable sentence to impress the girl.
 
 Optionally, the user can configure the application to propose the sentences plus a brief summary of the topic. This summary is only shown the first time the new topic is used.
 
-This data element is related with the prior one. Because the application proposestopics that are relevant for the users and then creates smart sentences around it.
+This data element is related with the prior one. Because the application proposes topics that are relevant for the users and then creates smart sentences around it.
 
 #### Emotional state
 
 - Calculate the emotional state of the girl using the gestures, expressions and face sensors.
-- The application will show the percentage. So the user can learn what are the topics the girl loves and also can use the information to take decitions.
+- The application will show the percentage. So the user can learn what are the topics the girl loves and also can use the information to take decisions.
 
 #### Suggested places
 
@@ -131,17 +131,17 @@ Our primary persona does not when to organize dates. Also Josh does not when is 
 
 So before the date, the user will receive in the mobile application a list of suggested places given the girl preferences. Then Josh, can book it directly through the application.
 
-On the date, the augmented reality app will notify the user if its the time to move to another place.
+On the date, the augmented reality app will notify the user if it's the time to move to another place.
 
 - The mobile app will propose 3 places to organize the date.
-- The augmented reality app will analyze the girl preferences and propose 3 places to move when its the right moment.
+- The augmented reality app will analyze the girl preferences and propose 3 places to move when it's the right moment.
 - All of the place are ranked by the girl preferences.
 
 This is related with the *Booking the place* data element, because the app will let the user to book the place.
 
 #### Booking the place
 
-After the applicaiton proposed the places, the user can book directly a table or a place. 
+After the application proposed the places, the user can book directly a table or a place. 
 
 - When the voice microphone heard 'Let's go to Hard rock cafe restaurant', the app will automatically book a table.
 - Also the application will start a navigation map.
@@ -177,10 +177,10 @@ After defining the new requirements and also the data elements, we need to trans
 
 - Read <action> a summary of the girl <object> when the user wants more information <context>
 	1. The augmented application analyzes the face of the girl and search all the available information online
-	2. A brief summary of the girl is shown on the screen. The application finds the best place to put the summary dependening on the situation.
-	3. The summary dissapears after some seconds (this is configurated by the user)
+	2. A brief summary of the girl is shown on the screen. The application finds the best place to put the summary depending on the situation.
+	3. The summary disappears after some seconds (this is configured by the user)
 
-- Get <action> sentences to say about a topic <object> when the user is insecure or doesnt know what to say <context>
+- Get <action> sentences to say about a topic <object> when the user is insecure or doesn't know what to say <context>
 
 	1. The application sensors recognize that the user is insecure or does not know what to say.
 	2. The application generates a list of topics, ranked by popularity (the most relevant for the girls).
@@ -188,32 +188,32 @@ After defining the new requirements and also the data elements, we need to trans
 	4. The application microphone recognizes that the user has used one sentence and hide the rest of the sentences.
 
 
-- See <action> emotional state of the girl <object> everytime of the conversartion <context>
+- See <action> emotional state of the girl <object> every time of the conversation <context>
 
-	1. The application camera analyzes the face of the girl and also the gestures and expresions.
+	1. The application camera analyzes the face of the girl and also the gestures and expressions.
 	2. The emotional state is recalculated at real time and it is display on top of the view.
 
 - Get <action> a list of suggested places <object> to make the date or to go there <context>
 
 	1. The girl wants to move or the man wants to book one restaurant.
 	2. The application will automatically generate a list of suggested places (ordered by girl preferences).
-	3. The man says "Let's go to NAME" and the list dissapears
+	3. The man says "Let's go to NAME" and the list disappears
 
 - Book <action> a restaurant or a place <object> for a date <context>
 	
 	1. After the man says "Let's go to NAME", the application hides the suggested groups.
 	2. The application makes an order or a reservation in the chosen place.
-	3. The application notifiy the user that the reservation has completed.
+	3. The application notify the user that the reservation has completed.
 
 - See <action> the map <object> when the user wants to go to the place <context>
 	
 	1. When the user says "Let's go to <name of the restaurant>" the application automatically calculates the best route and start the navigation mode.
 	2. The indications are displayed on the screen with arrows.
-	3. When they arrive to the place, the navigation mode dissapears.
+	3. When they arrive to the place, the navigation mode disappears.
 
-- Configurate <action> the application <object> at home <context>
+- Configure <action> the application <object> at home <context>
 	
-	This action can be done in both aplications (mobile or augmented reality). The only difference is the way to accessing the feature.
+	This action can be done in both applications (mobile or augmented reality). The only difference is the way to accessing the feature.
 
 	In the augmented reality:
 
@@ -232,7 +232,7 @@ After defining the new requirements and also the data elements, we need to trans
 
 ##3. Functional groups and hierarchy
 
-In this iteration we are going to change the structure and content from the previous iteration. We are focusing more on the **two goals for the user**: getting information about the girl (flirting) and be successfull while dating.
+In this iteration we are going to change the structure and content from the previous iteration. We are focusing more on the **two goals for the user**: getting information about the girl (flirting) and be successful while dating.
 
 So there are two functional groups. Because one is the group when you want to get information about the girl or maybe you want to remember a date you have with the girl. The second one is when you are having the date with your love.
 
@@ -243,7 +243,7 @@ The application will work differently in both cases because the goals of the use
 
 #### Flirting
 
-This includes all the situations when you are flirting with the girl, like chatting, seeying at first time or after the first date. Because our application can record too all the previous dates you have with the girl or helping you to get the date.
+This includes all the situations when you are flirting with the girl, like chatting, seeing at first time or after the first date. Because our application can record too all the previous dates you have with the girl or helping you to get the date.
 
 **Views:**
 
@@ -252,7 +252,7 @@ This includes all the situations when you are flirting with the girl, like chatt
 - Configuration of the application.
 
 #### Dating
- 
+ 
 Now the user goal is **getting the girl**. So in this case the application will help you to have an awesome date and to get the true love. 
 
 We have included all the features related with having a conversation, knowing the girl emotions and also to move to another place. 
@@ -273,9 +273,9 @@ Chronological order:
 
 Conceptually, we will divide in **three containers**: dating, flirting and configuration. By default, the application will be on flirting mode, but the user can change at any time.
 
-The application is designed like **a layer on top of the real world**. So the user uses the voice to navigate throught the different parts of the interface..
+The application is designed like **a layer on top of the real world**. So the user uses the voice to navigate through the different parts of the interface..
 
-We have decided to let the application choosing where to place the **notifications depending on the position of the girl**. Now it will use different techniques to measure the distances between left, right, top and bottom margins. For example, if the girl is situated on the left part of the screen, the application will place the notification on the right part and viceversa.
+We have decided to let the application choosing where to place the **notifications depending on the position of the girl**. Now it will use different techniques to measure the distances between left, right, top and bottom margins. For example, if the girl is situated on the left part of the screen, the application will place the notification on the right part and vice versa.
 
 However, in our sketches we will place the girl on the middle/right part of the screen so the notifications will be on the left side.
 
@@ -296,11 +296,11 @@ For example, the user says: "I want go flirting"
 
 ##### Girl summery
 
-The application uses the camera to analyze faces. If its the first time the user see a girl, then a summery is shown. 
+The application uses the camera to analyze faces. If it's the first time the user see a girl, then a summary is shown. 
 
 ![alt text](./sketches/2_summery.png "")
 
-The summery contains all the important information. Also there is some extra information that the user can show. This extra fields are configurated in the configuration view (continuous reading).
+The summary contains all the important information. Also there is some extra information that the user can show. This extra fields are configured in the configuration view (continuous reading).
 
 ![alt text](./sketches/3_summery_optionals.png "")
 
@@ -337,7 +337,7 @@ When the user start talking on one of the topics, the application automatically 
 ##### Sentences to say
 
 On any topic, the application proposes smart sentences to say about the topic.
-This feature can be desactivated from the configuration view.
+This feature can be deactivated from the configuration view.
 
 ![alt text](./sketches/8_sentences.png "")
 
@@ -366,9 +366,9 @@ We think that from the first iteration there was some cool ideas. For example, t
 
 In this iteration, we solved this problem being more precise and direct to the information the user should say. So we add the 'sentences suggestion' that let the user reply with smart sentences on any topics. 
 
-Also, we try to simplyify the UI elements. And now the notifications are displayed depending on the available space.
+Also, we try to simplify the UI elements. And now the notifications are displayed depending on the available space.
 
-Also, we have added more views for making a reservation and changed the maps. We basically use arrows to notifiy the user what to do.
+Also, we have added more views for making a reservation and changed the maps. We basically use arrows to notify the user what to do.
 
 And we have removed the hurts and put a fixed warning about the state of the girl on the date.
 
@@ -382,7 +382,7 @@ Now we will write some new keypath scenarios for the new sketches and also writi
 
 #### Keypath 1: flirting
 
-The user is alone at home and put the lenses. Then he go to the univeristy and see a beautitul girl. Then, the application automatically recognize her face and display all the girl information in the screen.
+The user is alone at home and put the lenses. Then he go to the university and see a beautiful girl. Then, the application automatically recognize her face and display all the girl information in the screen.
 
 Then, the application generates a list of places to make a date. All of this places are the favourite ones of the girl.
 
@@ -390,7 +390,7 @@ Then our application shows a message in the screen saying: "Go to the lady and s
 
 The lady is shocked, because she has never met a guy who know she loves this place. So the application updates the emotion message to: 'Impressed and open to meet'.
 
-Then our app displays all the hobbies of the girl and she loves 'Harry potter films' so the application display another message: 'Say: Hey, I know this could sound weird but your face looks like hermione grenger'
+Then our app displays all the hobbies of the girl and she loves 'Harry potter films' so the application display another message: 'Say: Hey, I know this could sound weird but your face looks like Hermione Grenger'
 
 The girl was surprised and say: 'What? Hermione is my favourite character of harry potter. I'm a big fan!'.
 
@@ -404,17 +404,17 @@ So the tuesday, both were meeting on Hard Rock Cafe. Our man, put the applicatio
 
 The girl was incredible and Josh was really nervous and he went blank. However, the application suggested 3 topics to speak: Tennis, love films and trips. She love all those topics and Josh started to speak about tennis. 
 
-Then all the topics dissapeared and the application suggested some sentences. We have to say that Josh doesn't know anything about tennis... However, the app put: "Hey Vanesa, I'm a big fan of Pete Sampras. Do you like him".
+Then all the topics disappeared and the application suggested some sentences. We have to say that Josh doesn't know anything about tennis... However, the app put: "Hey Vanesa, I'm a big fan of Pete Sampras. Do you like him".
 
 Vanesa was super happy! Because Pete Sampras is her favourite tennis player. Then the application says more sentences like: 'I love the match Boris Becker in 1996. It was amazing and Pete won!'. Surprisingly this is the favourite match for Vanesa. Both were talking hours about tennis, love stories, adventures... So our app was working really well.
 
-Then the application suggests Josh 3 more intimic places to move. Because its the time to go to the next level. So then Josh says: 'Hey vanesa. Would you like to go to circulo de Bellas artes rooftop'.
+Then the application suggests Josh 3 more intimate places to move. Because it's the time to go to the next level. So then Josh says: 'Hey vanesa. Would you like to go to circulo de Bellas artes rooftop'.
 
 Curiously, this is the favourite place of Vanesa in Madrid (well is not so curious, the application is doing the magic). So she say yes.
 
 Then Josh says: 'Okey! Let's go to Circulo de Bellas artes'. So the application automatically booked a private place there and started the navigation mode.
 
-At the end of the date, in the circulo de bellas artes, the emotion of Vanesa was: 'Starting to feel in love'. So the applicaiton suggests: 'Josh. It's the moment to give a kiss. Go!'.
+At the end of the date, in the circulo de bellas artes, the emotion of Vanesa was: 'Starting to feel in love'. So the application suggests: 'Josh. It's the moment to give a kiss. Go!'.
 
 And this is the end of this happy story. Josh and Vanesa are now happily engaged and this story has a happy ending.
 
@@ -426,7 +426,7 @@ The first iteration has some good ideas. However there were many things to impro
 
 The working process starting from a non-opinionated and very creative state of mind was crucial to improve the previous designs. Also, we found really interesting to compare the new ideas with the first iteration so to choose the best of them. In general terms, we have redesigned from scratch many stuff, but both iteration has great things on it.
 
-In general terms, our product is starting to be very defined and we can't wait to start the new iteration to think if we want to add some new funcionalities (if needed) and to make a higher fidelity designs.
+In general terms, our product is starting to be very defined and we can't wait to start the new iteration to think if we want to add some new functionalities (if needed) and to make a higher fidelity designs.
 
 In the future of our application we would like to also create the mobile app to let the user get more information without needing the lenses
 
@@ -434,9 +434,9 @@ In the future of our application we would like to also create the mobile app to 
 
 So from the previous iteration we have done many work and we are ready to start working on higher fidelity designs!
 
-We think there are some extra functionalities that could be added to the product, for example a catch liers detector. But we have decided not to work on new functionalities, because the core of the application is done and this new features do not add any new interesting things to our targeted personas.
+We think there are some extra functionalities that could be added to the product, for example a catch liars detector. But we have decided not to work on new functionalities, because the core of the application is done and this new features do not add any new interesting things to our targeted personas.
 
-So now we are focusing on creating the higuer fidelity designs. We have started to work from the mockups and this is the final result:
+So now we are focusing on creating the higher fidelity designs. We have started to work from the mockups and this is the final result:
 
 The application will recognize the face of the girl and displays the information of the girl.
 
@@ -447,3 +447,5 @@ And now the user sees a list of topics to speak with the girl
 ![alt text](./sketches/topics.png "")
 
 We have checked that the design is valid taking into account the previous work for the milestone 2 and the keypaths.
+
+
