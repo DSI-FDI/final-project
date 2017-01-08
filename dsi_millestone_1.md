@@ -10,56 +10,54 @@ rights: Creative Commons - BY-NC
 
 # Research plan:
 
-Our research plan will last two weeks. Starting on November 15 and finishing on November 29.
+Our research plan will last two weeks, starting on November 15th and finishing on November 29th.
 
-As we wanted to focus our application on 18 to 22 years old university undergraduate boys and girls who are not experts on dating and want to improve their abilities to meet and to flirt with people.
-We focus on undergraduate students because it’s the period when most of the young people starts their romantic relationships. So it’s the best time when we can help them.
-That’s why we planned to look mainly for university students and that’s why most of our interviews were done on a faculty.
+Our initial focus were 18 to 22-year-old university undergraduate boys and girls who are not experts on dating and want to improve their abilities to meet and flirt with people.
+We chose undergraduate students because it’s the period when most young people start their romantic relationships, so it’s the time where we can help them the most.
+That’s why we planned to look mainly for university students and therefore most of our interviews were done various faculty buildings.
 
-We had expected to have several interviews because young people would find our idea interesting but at the same time we expected them to be really short in duration.
+We expected to have several interviews because young people would find our idea interesting, but at the same time we expected them to be really short in duration.
 
 
-When we talk about the actual interviews we have two very different sets:
-A group of five people that we interviewed on the street and gave us just around 5-10 minutes interviews from which we got a basic view about what people thinks of this kind of apps and what they do expect about em.
-A group of 3 people that we interview on a faculty cafeteria and gave us around 20 minutes interviews. Perfect to extract big amounts of info. We got into more details about what they would want our app to do and what they would find really useful.
+After completing the interviews, we ended up with two very different sets of data:
+A group of five people that we interviewed on the street and gave us just around 5-10 minutes interviews, from which we got a basic view about what people think of this kind of apps and what they expect from them.
+A group of 3 people that we interviewed on a faculty cafeteria and gave us around 20 minutes interviews, perfect to extract large amounts of information. We got into more detail about what they would want our app to do and what they would find really useful.
 
-In conclusion we think that we got quite good information because we could answer all the questions that we had for the app and we got a quite clear view about what people wants for an app like ours.
+In conclusion, we think that we got quite good information because we could answer all the questions that we had for the app and we got a clear view about what people want from an app like ours.
 
 # Interviews
 
 ## Preparation + process
 
-We started to think what kind of people are we interested in and also what are we expecting to know/learn from them. So we can move forward in the milestone.
+We started to think what kind of people we were interested in and also what we expected to learn from them.
 
-In our first brainstorming we came to the conclusion that the university students are the most representative sample for our interviews. Because the university period is where most of the people start dating and building long-term relationships.
+In our first brainstorming we came to the conclusion that the university students are the most representative sample for our interviews, because the university period is where most of the people start dating and building long-term relationships.
 
-Moreover, we decided in which places and faculties we could find the best people for the sample. So we chose the following places: faculty of medicine (UCM), faculty of journalism (UCM), Moncloa bus station, Moncloa Bar.
+Moreover, we thought about which places and faculties would offer the best people for the sample, and we chose the following places: Faculty of Medicine (UCM), Faculty of Journalism (UCM), Moncloa bus stations and Moncloa Bars.
 
 Why we picked this places?:
 
-- Restaurant. Faculty of journalism (UCM): Generally they are social and open-minded..
+- Restaurants, Faculty of journalism (UCM): Generally journalism students are social and open-minded. Besides, we thought that they would be used to giving and receiving interviews for their own courses.
 
-- Restaurant. Faculty of medicine (UCM): normally these students are smart and they are normally really busy with the university. So they don't have much time for dating because their degree is high demanding.
+- Restaurants, Faculty of medicine (UCM): normally these students are smart and they are usually really busy with the university. Therefore they don't have much time for dating because their degree is highly demanding. We thought these circumstances could provide interesting data about what they find most important, since they cannot waste time.
 
-- Bus. Moncloa station: Moncloa is a good place for finding students because they normally life in this area. So will find a targeted selection of young people.
+- Bus, Moncloa station: Moncloa is a good place for finding students because they normally live in this area. So here we thought we'd find a targeted selection of young people.
 
-- Bar. Moncloa: same reasons from previous point (Bus. Moncloa station) but in this case the interviews will take place in a bar. So we can conduct longer interviews.
+- Bar, Moncloa: Same reasons from previous point (Bus. Moncloa station), but in this case the interviews will take place in a bar, so we can conduct longer interviews.
 
-We think university restaurants are a good place for doing longer interviews (around 20-30 minutes) because the people are relaxed and more open to talk.
+We thought university restaurants were a good place for doing longer interviews (around 20-30 minutes), because the people would be relaxed and more open to talk.
 
-Also we want to explore shorter and faster interviews, so we move outside to Moncloa. Moncloa is a place close to the university where many students life. So there are high probabilities to find our targeted users.
+Also, we wanted to explore shorter and faster interviews, so we moved outside to Moncloa. Moncloa is a place close to the university where many students life. So there are high probabilities to find our targeted users.
 
 ## Expectations
 
-We expect to obtain as much information as possible about dating habits from the students. Also, we want to know more about their needs when meeting new people and how we can help them in order to have a relationship.
+We expected to obtain as much information as possible about the dating habits of the students. Also, we wanted to know more about their needs when meeting new people and how we could help them in order to have a successful dating experience.
 
 ## Goals
 
-We have created a group of questions for our interviews. We grouped them to go from general/soft questions to deeper and more targeted questions.
+We created a group of questions for our interviews. We grouped them to go from general/soft questions to deeper and more targeted questions.
 
-Even though there are plenty of questions, the idea is not to use all of them in our experimental interviews. Rather, we want to have a general structure. We will adapt the questions depending on the conversation or insights we receive from the user on our interviews. The full questions and answers can be found in the interview transcripts provided.
-
-We will make some short interviews (around 5 minutes) to get some general input and perspective in conjunction with long and mid-length interviews (around 20 minutes) for a reduced group of targeted users to gain deeper knowledge.
+Even though there were plenty of questions, the idea was not to use all of them in our experimental interviews. Rather, we wanted to have a general structure, which we would adapt depending on the conversation or insights we received from the user on our interviews. The full questions and answers can be found in the interview transcripts provided.
 
 ## Interview questions
 
@@ -102,19 +100,17 @@ We will make some short interviews (around 5 minutes) to get some general input 
 
 ## Results of the interviews
 
-We are super happy with the results of our interviews. We obtained many useful information about our users (feelings, needs, goals, fears...).
+We are completely satisfied with the results of our interviews. We obtained many useful information about our users (feelings, needs, goals, fears...).
 
-We realized many people are looking for a relationship but they don't feel confident and sure about how dating and being successful.
+We realized that many people are looking for a relationship but they don't feel confident and sure about how to be successful at dating.
 
-Two or three of us were on each interview. One was the interviewer and the rest of the team were taking notes or making the recording.
+There were two or three of us at each interview. One was the interviewer and the rest of the team were taking notes or recording.
 
-Also we did some experiments. In one interview, there were 2 interviewers. The principal interviewer was conducting the interview and the support interviewer asked some questions for getting deeper information.
+We also did some experiments. In one interview, there were 2 interviewers. The principal interviewer was conducting the interview and the support interviewer asked some questions for getting deeper information. This worked really well, because the 2 interviewers were working together and obtained more information than the 1-1 interviews, since the support interviewer often caught on points which the main interviewer missed.
 
-This worked really well, because the 2 interviewers were working together and obtained more information than the 1-1 interviews. That's because sometimes you can forget to ask something but the support interviewer will help you out.
+We dedicated some days for making the interviews. And the last day we worked together for making the transcripts (from audio to text) and extracting the factoid list.
 
-We dedicated some days for making the interviews. And the last day we worked together for making the transcripts (from audio to text).
-
-In general terms, we are proud of all the information we obtained and also we did a great team work. It was fun and cool to met other students and our expectations were fulfill.
+In general terms, we are proud of all the information we obtained and the great team work we did. It was fun and cool to meet other students and our expectations were fulfilled.
 
 # Factoids
 
@@ -124,7 +120,7 @@ In general terms, we are proud of all the information we obtained and also we di
 - Most users were university students.
 - Paula was homosexual the rest were heterosexual.
 - Most men used chats to organize dates.
-- People normally felt nervous or shy when starting the date,
+- People normally felt nervous or shy when starting the date.
 - Most people wanted to feel a date is comfortable and relaxing.
 - Many people would find it useful to know the other person’s emotional state at any given time.
 - At least three users would like to be notified when they approached a dangerous conversation topic.
@@ -153,8 +149,8 @@ In general terms, we are proud of all the information we obtained and also we di
 ### First dates: places and plans where the person dates.
 
 - More than 65% of people preferred dating at night. The rest preferred the afternoon.
-- Most people preferred a location where they could talk (i.e. cafeteria), as opposed to not (i.e. a cinema, a theater, cool bars, restaurant) for a date.
-- Two users said they liked to date on art places (museums, exhibition galleries) because one can talk and share a common hobby.
+- Most people preferred a location where they could talk (e.g. cafeteria), as opposed to not (e.g. a cinema, a theater, cool bars, restaurant) for a date.
+- Two users said they liked to date on artistic places (museums, exhibition galleries) because one can talk and share a common hobby.
 - One user mentioned that he would put the other person’s preference ahead of his own when choosing a place for  the date. However, the same user said that he’d recommend that his shy friends choose a place that suits them better, so as to be more confident.
 - Most male users preferred organizing the first date themselves.
 - One user thought that it’s good to have a planned escape from the first date to be able to leave it when the interest peaks (e.g. a paper to deliver).
@@ -176,38 +172,52 @@ In general terms, we are proud of all the information we obtained and also we di
 - One female user thought it useful to know the name of the girls that have been with the other person.
 - Most of the people felt that using this app was artificial, and it's better and more funny to have dates naturally.
 - Two users wanted to use this app to catch liars.
-- One user thought that discovering things of the other person is fascinating, but wants to know few things to make the conversation flew  but afterward he says that knowing feelings is artificial
+- One user thought that discovering things of the other person is fascinating, but wanted to know a few things to make the conversation flow.
 
 ### Others
 
-- Most of the users wanted a notification as the means of communicating what the app thinks is important
+- Most users wanted a notification as the means of communicating what the app thinks is important.
 - One user thought it was better to have the biography of the other person always available.
 - Paula is an antipersona.
 
 # Competitive Study
 
-### Motivations and focus
+## Motivations and focus
 
-Our competitive study focuses mostly on exploring the existing (albeit small) design space around Augmented Reality (AR) technologies, focusing mostly on Google Glass and [Atheer](https://www.youtube.com/watch?v=Pk2Lp0R9obc). Due to the limited market adoption of the Glass, not much design work has been made, which leaves ample space for exploration in design. However, Google provides [design principles and patterns](https://developers.google.com/glass/design/patterns) to aid the developers in forming a common framework for app design.
+Our competitive study focuses mostly on exploring the existing (albeit small) design space around Augmented Reality (AR) technologies, examining Google Glass and [Atheer](https://www.youtube.com/watch?v=Pk2Lp0R9obc). Due to the limited market adoption of the Glass, not much design work has been made, which leaves ample space for exploration in design. However, Google provides [design principles and patterns](https://developers.google.com/glass/design/patterns) to aid the developers in forming a common framework for app design.
 
 
-With regard to other dating apps (e.g. Tinder), our analysis was very shallow, since these apps focus mostly on matching people via smartphone, whereas our idea was to tackle the stages following that, once a date has been agreed upon face to face.
+With regard to other dating apps (e.g. Tinder), our analysis was very shallow, since these apps focus mostly on **matching people** via smartphone, whereas our idea was to tackle the **stages following** that, once a date has been agreed upon face to face.
 
-### Related apps / Competitors
+## Competitive analysis: process summary
 
-#### Google Glass
+When making the competitive analysis firstly we tried to find applications already available in the market that fit with ours. It was not possible.
+
+We wanted to search some design features in dating apps, but none of these application was an interesting example because it is not very convenient to compare two types of apps with so different objectives. Dating apps are focused on meeting new possible partners by means of a chat, whereas our application makes sense in the “real world” when dating people face to face.
+
+Due to these problems we decided to turn our ideas around. We decided to focus on similar technological approaches such as applications for Google Glass. We got useful information about how the human-machine interaction should be when having the limitations of google glasses or in our case, contact lenses.
+
+Nevertheless, Google Glass is a very different technology than ours, since it is limited to a small screen in the upper-right part on the glasses. Our technology has the capability of showing output information in the entire line of sight of the user.
+
+For that reason and despite  Google Glass being a good researching field, we found another gadget very similar to our goals. Atheer is a virtual reality approach that is near to our ideas on how the final application should interact with the user. Also it’s important to say that we have focused in some concrete applications to measure the power of this kind of gadgets and how to use them.
+
+Since users don't have experience with this new technology there will not be any user expectation, So we haven't included the design takeaways in the factoids.
+
+## Related apps / Competitors
+
+### Google Glass
 
 - [Name Tag](https://www.youtube.com/watch?v=43oo41Nnvfw): An application that reads the face of the person in front and searches the internet for their online presence, revealing a stream of personal data. It was [discontinued](http://www.nametag.ws/) due to privacy reasons, and Google [publicly announced](http://www.huffingtonpost.com/2011/06/01/facial-recognition-google_n_869583.html) itself against this sort of technology. Note that the query results are displayed on the left of the HUD, from top to bottom.
 - [Xpert EYE](http://www.amaxperteye.com/fr/): An enterprise product designed to allow real-time communication in sensitive operations between experts and other employees. It is currently being used in time-critical missions such as [medical situations](https://www.youtube.com/watch?v=L7sGnkbE_Yk), where the presence of an expert would be beneficial but is not always possible. However, this app provides a HUD that is sparse at best, and the only way for the experts to provide instructions is via voice commands.
 - [APX Skylight](https://apx-labs.com/glassatwork/): Another enterprise product, this time aiming to virtualize the steps necessary for the maintenance and repair of appliances. It offers a detailed HUD with real-time information for precision-critical systems, in addition to Telestration (instructions given via video chat).
 - [Google Glass Navigation](https://www.youtube.com/watch?v=Ctzc8QSF6mQ&feature=youtu.be&t=10m46s): The navigation inside the menus themselves can provide great information and a working example of the design patterns depicted earlier. To note is that the information flows sideways for context switching (e.g. changing from a weather forecast to a Twitter feed), and forwards and backwards (i.e. deepening and shallowing) to move within a context. For example, one can move sideways to reach the notification feed, up and down to browse notifications, and backwards (shallowing) to see the available actions with a given notifications (e.g. Retweet/Favorite/Share a tweet). Some additional demos can be found [here](https://www.youtube.com/watch?v=d-y3bEjEVV8&feature=youtu.be&t=1m36s) and [here](https://www.youtube.com/watch?v=V8ofTlynWPo).
 
-#### Atheer
+### Atheer
 
 - [Flex](https://www.youtube.com/watch?v=tFVHVpe9Od4): Used in warehouses, it allows for a fast scan and completion of an order. Note the information displayed in minute 1:40, with the middle part of the viewport clean of distractions, and all other information displayed on the sides via icons. Note also the three types of controls: Hand gestures, voice and head tilting.
 - [Atheer DevKit](https://www.youtube.com/watch?v=sYlDevvcdEw): A display of how the hand gestures combine with existing android applications to be used easily. This focuses on direct manipulation of 2D and 3D objects.
 
-### Design Takeaways
+## Design Takeaways
 
 - A more immersive experience (when the entire viewport is subject to display AR data) is preferable to a smaller more localized display (Atheer vs Glass). However, this immersion does not overlap well with the real world, at least for now.
 - Atheer places a greater emphasis on hand gestures, as opposed voice commands.
@@ -220,20 +230,3 @@ Usually, there are no more than 7 or 8 widgets on display (in the case of Atheer
 The center of the viewport is mostly clean of clutter. The main object (usually the real world) goes in the center of the application.
 - In some applications (NameTag) faces are placed at the left. This is due to the fact that when looking up left we connect with the memoristic part of our brain, for example to remember images. Also menus are placed on the right.  At looking to the right we get in contact with the mental construction in our brain, that is used for example for things which we don’t have direct experience like an unknown track in Google Maps (deeper info https://lenguajecorporal.org/descifrando-los-movimientos-de-los-ojos-estamos-recordando-o-estamos-inventando/ ).
 - In Xpert-EYE experts can draw directly in the viewport so we can teach at real time.
-
-### Competitive analysis: process summary
-
-When making the competitive analysis firstly we tried to find applications already available in the market, that fit with ours. It was not possible.
-
-We wanted to search some design features in dating apps, none of these application was an interesting example because it is not very convenient to compare two types of apps  with so different objectives. Dating apps are focused on knowing new possible couples by means of a chat, on the other hand, our application makes sense in the “real world” when meeting people face to face.
-
-Due to these problems we decided to turn around our ideas. We decided to focus on similar technological approaches such as applications for Google Glass. We got useful information about how the human-machine interaction should be when having the limitations of google glasses or in our case, contact lenses .
-
-Nevertheless, Google Glass is a very different technology than ours, since it is limited to a small screen in the upper-right part on the glasses.
-
-Our technology has the capability of showing output information in the entire line of sight of the user.  
-For that reason and despite  Google Glass being a good researching field, we found another gadget very similar to our goals.
-
-Atheer is a virtual reality approach that is near to our anticipation on how the final application should interact with the user. Also it’s important to say that we have focused in some concrete applications to measure the power of this kind of gadgets and how to use them.
-
-Since users don't have experience with this new technology there will not be any user expectation. So we haven't included the design takeaways in the factoids.
