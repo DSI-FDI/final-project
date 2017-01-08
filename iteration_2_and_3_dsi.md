@@ -1,6 +1,6 @@
-# Iteration 2.
+# Iteration 3
 
-A new team is in charge of the second iteraton. Our approach will be different: start working from scratch on each of the 6 steps, adding new visions and ideas without being conditionated by the first iteration. After this first creative step we will start comparing different ideas from the first iteration. And finally, we will make new sketches, rewrite some parts of the document and prepare the work for the next iteration.
+A new team is in charge of the third iteration. Our approach will be different: start working on each of the 6 steps, adding new visions and ideas without being conditionated by the previous iteration. After the end of each step we compare this new ideas with the version from the previous iteration. And then we decide what new elements leave. At the end of this iteration  we will make new sketches, rewrite some parts of the documentation and prepare the work for the next iteration.
 
 Thanks to this approach we can work creatively and without any constrains from prior work, so the value of the new ideas is higher. This is truly important in order to think on new concepts completely free.
 
@@ -164,7 +164,6 @@ The following list is the options the user can configure to personalize the expe
 - Show members of the family.
 - Kind of relationship she is looking for: long-term or short-term.
 - For how long the girl summary should be seen on the screen.
-
 
 ### Functional elements
 
@@ -419,11 +418,11 @@ At the end of the date, in the circulo de bellas artes, the emotion of Vanesa wa
 
 And this is the end of this happy story. Josh and Vanesa are now happily engaged and this story has a happy ending.
 
-## Iteration 2: final thoughts
+## Iteration 3: final thoughts
 
 The team has enjoyed a lot working on this iteration because the process was very creative and really challenging. We have improved many stuff from previous iteration, redefined some concepts and added new incredible functionalities.
 
-The first iteration has some good ideas. However there were many things to improve and the second iteration was a hard and long process. But we are happy with the result.
+The first iteration has some good ideas. However there were many things to improve and this iteration was hard and a long process. But we are happy with the result.
 
 The working process starting from a non-opinionated and very creative state of mind was crucial to improve the previous designs. Also, we found really interesting to compare the new ideas with the first iteration so to choose the best of them. In general terms, we have redesigned from scratch many stuff, but both iteration has great things on it.
 
@@ -431,7 +430,7 @@ In general terms, our product is starting to be very defined and we can't wait t
 
 In the future of our application we would like to also create the mobile app to let the user get more information without needing the lenses
 
-# Iteration 3
+# Iteration 4
 
 So from the previous iteration we have done many work and we are ready to start working on higher fidelity designs!
 
