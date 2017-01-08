@@ -165,3 +165,23 @@ After discussing the prototypes and keypath scenarios, we distilled a list of ch
 
 ###Moving View
 - Will be similar to In-date view, but in this case the map will be located where the search bar was (top-left), and just below that a text will appear with indications to reach the destination, such as “In 200m, turn left”.
+
+##Functional element changes for the second pass
+Upon review of the Functional and Data Elements list, we decided to make some minor changes:
+
+###Catalog of data elements
+- Emotion
+  - It will now be represented by a colored circle with a set of hearts from 1 to 4 showing how close the date is from falling in love with the user.
+  - It will be positioned on the bottom right of the interface.
+  
+###Functional elements
+- Josh
+  - Search bar: The information will always be shown with just a few phrases and some photos so is easier to get the idea without having to read.
+  - Map:
+    1. A map with your location can be opened in the bottom left part of the interface at any moment by the user during the date. It can be closed once is opened.
+    2. When opening the map the app changes to the Moving view in which the wikipedia bar disappears and the map takes its place in the top-left corner.
+    3. In every moment Josh is able to ask for going to different places. At the same time the application is suggesting locations whenever is important from the application point of view.
+    4. When the places are found he can select one of them.
+    5. A track will be shown whenever Josh selects a target place. Alternative paths can be taken by Josh.
+    6. When following a path the indications like “Turn right”, “Turn left” … will be shown below the map in a very subtly fashion, with the letters as small as possible.
+
