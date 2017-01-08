@@ -158,6 +158,7 @@ After discussing the prototypes and keypath scenarios, we distilled a list of ch
 
 ![alt text](./photos/what_is_a_cpu.png "")
 
+
 ![alt text](./photos/benito_perez_galdos.png "")
 
 - The notification box will be located following Daniel’s prototype with the same size. In the lower part of that same side, there will be a circle with a color that matches the emotional state of the date. Somewhere around that element (not yet decided), there will be a heart bar, similar to that in Borja’s prototype, which aims to know the level of likeness that the other person has for the user.
