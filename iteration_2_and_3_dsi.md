@@ -8,7 +8,7 @@ Thanks to this approach we can work creatively and without any constraints from 
 
 ### Getting the information from context scenarios
 
-First we will focus on Josh, the primary persona defined in the milestone 2. As we defined, Josh has 5 problems. The reader could go to the previous milestone and see the problems, but we will also include them here and make some improvements.
+First we will focus on Josh, the primary persona defined in the milestone 2. As we defined, Josh has 4 problems. The reader could go to the previous milestone and see the problems, but we will also include them here and make some improvements.
 
 For making the **form factor** we will use most of the Josh problems. We have rewrite many problems from Josh to improve the design.
 
@@ -27,7 +27,7 @@ Also we think some visions proposed on the previous iteration could be improved.
 
 ###Form factor
 
-Our hardware (the lenses) is combined with software (augmented reality application) to offer a great user experience. The lenses are very comfortable and they are smoothly integrated in the eyes, so this an advantage.
+Our hardware (the lenses) is combined with software (augmented reality application) to offer a great user experience. The lenses are very comfortable and they are smoothly integrated in the eyes, so this is an advantage.
 
 Our product is integrated in the user eyes, so we have the possibility to create a 180 degrees interface. However, we only want to concentrate our design in very defined and **strategic areas** that will let the user to **interact naturally** while receiving a valuable information to have a successful date.
 
@@ -127,7 +127,7 @@ This data element is related with the prior one. Because the application propose
 
 #### Suggested places
 
-Our primary persona does not when to organize dates. Also Josh does not when is the correct time to move to another place because the girl is bored or because it's the time to take the date to a higher level.
+Our primary persona does not know where to organize dates. Neither when is the correct time to move to another place because the girl is bored or because it's the time to take the date to a higher level.
 
 So before the date, the user will receive in the mobile application a list of suggested places given the girl preferences. Then Josh, can book it directly through the application.
 
@@ -370,7 +370,7 @@ Also, we try to simplify the UI elements. And now the notifications are displaye
 
 Also, we have added more views for making a reservation and changed the maps. We basically use arrows to notify the user what to do.
 
-And we have removed the hurts and put a fixed warning about the state of the girl on the date.
+And we have removed the hearts and put a fixed warning about the state of the girl on the date.
 
 In general the first iteration was a good work but we have improved and simplified many stuff.
 
@@ -382,7 +382,7 @@ Now we will write some new keypath scenarios for the new sketches and also writi
 
 #### Keypath 1: flirting
 
-The user is alone at home and put the lenses. Then he go to the university and see a beautiful girl. Then, the application automatically recognize her face and display all the girl information in the screen.
+The user is alone at home and put the lenses. Then he goes to the university and see a beautiful girl. Then, the application automatically recognize her face and display all the girl information in the screen.
 
 Then, the application generates a list of places to make a date. All of this places are the favourite ones of the girl.
 
@@ -390,7 +390,7 @@ Then our application shows a message in the screen saying: "Go to the lady and s
 
 The lady is shocked, because she has never met a guy who know she loves this place. So the application updates the emotion message to: 'Impressed and open to meet'.
 
-Then our app displays all the hobbies of the girl and she loves 'Harry potter films' so the application display another message: 'Say: Hey, I know this could sound weird but your face looks like Hermione Grenger'
+Then our app displays all the hobbies of the girl and she loves 'Harry potter films' so the application display another message: 'Say: Hey, I know this could sound weird but your face looks like Hermione Granger'
 
 The girl was surprised and say: 'What? Hermione is my favourite character of harry potter. I'm a big fan!'.
 
