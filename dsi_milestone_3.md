@@ -301,7 +301,7 @@ As we said, the voice is one of the main sources that the augmented reality app 
 
 Talking about inputs, we have to note that the application also receives information from the outside world: gestures, facial expressions, voice of the girl, weather in the zone, reactions, etc. Although these are not input methods from the user who is using the application, this is extremely related and it is really useful to know what information the application sensors will receive.
 
-##2. Define functional and data elements
+## 2. Define functional and data elements
 
 ### Preparing the requirements
 
@@ -421,7 +421,6 @@ After defining the new requirements and also the data elements, we need to trans
 	3. The summary disappears after some seconds (this is configured by the user)
 
 - Get <action> sentences to say about a topic <object> when the user is insecure or doesn't know what to say <context>
-
 	1. The application sensors recognize that the user is insecure or does not know what to say.
 	2. The application generates a list of topics, ranked by popularity (the most relevant for the girls).
 	3. The user says the sentence.
@@ -429,30 +428,25 @@ After defining the new requirements and also the data elements, we need to trans
 
 
 - See <action> emotional state of the girl <object> every time of the conversation <context>
-
 	1. The application camera analyzes the face of the girl and also the gestures and expressions.
 	2. The emotional state is recalculated at real time and it is display on top of the view.
 
 - Get <action> a list of suggested places <object> to make the date or to go there <context>
-
 	1. The girl wants to move or the man wants to book one restaurant.
 	2. The application will automatically generate a list of suggested places (ordered by girl preferences).
 	3. The man says "Let's go to NAME" and the list disappears
 
 - Book <action> a restaurant or a place <object> for a date <context>
-	
 	1. After the man says "Let's go to NAME", the application hides the suggested groups.
 	2. The application makes an order or a reservation in the chosen place.
 	3. The application notify the user that the reservation has completed.
 
 - See <action> the map <object> when the user wants to go to the place <context>
-	
 	1. When the user says "Let's go to <name of the restaurant>" the application automatically calculates the best route and start the navigation mode.
 	2. The indications are displayed on the screen with arrows.
 	3. When they arrive to the place, the navigation mode disappears.
 
 - Configure <action> the application <object> at home <context>
-	
 	This action can be done in both applications (mobile or augmented reality). The only difference is the way to accessing the feature.
 
 	In the augmented reality:
@@ -469,8 +463,7 @@ After defining the new requirements and also the data elements, we need to trans
 	3. The field value is changed.
 	4. The user exists.
 
-
-##3. Functional groups and hierarchy
+## 3. Functional groups and hierarchy
 
 In this iteration we are going to change the structure and content from the previous iteration. We are focusing more on the **two goals for the user**: getting information about the girl (flirting) and be successful while dating.
 
@@ -507,7 +500,7 @@ Chronological order:
 - Go to another place and book it.
 - Map navigator.
 
-##4. Sketches iteration 2
+## 4. Sketches iteration 2
 
 #### Design notes
 
