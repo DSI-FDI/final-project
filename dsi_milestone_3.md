@@ -203,3 +203,26 @@ He selects via voice command the social network tab (Saying “social network”
 After a while surfing at the girl’s Facebook he wants to know more about the girl’s hobbies so he changes to that tab (Saying “Hobbies”). In it there is a list of the girl’s hobbies and he sees that the first of them is that she loves cats. He had suspected that when seeing her photos but now he is sure about it. The girl’s next hobby is playing basketball and the last two ones watching films and reading. Is then when Josh starts planning somehow some topics for the date and he feels prepared for it, but before meeting the girl he wants a last piece of information he wants to check the “previous partners” tab so he changes to it (Saying “previous partners”) and checks how their previous partners were. 
 
 There are three guys and all of them look normal. He realises that all of them are 3 years older than the girl exactly as Josh and that gives him a boost of confidence feeling ready for the date.
+
+###In-date Keypath Scenario
+As soon as the date starts the application changes to a different mode, the “In date” mode in which the central space is empty and all the information needed during the date is moved to the sides.
+
+First of all Josh wants to check how is his partner mood so he checks the icon in the right-top corner that shows how it is going. He sees that as the date has just started the app shows his partner mood to be normal(green color) not excited nor bored or angry.
+So Josh looks at the top-right corner where the topic suggestions appear and decides to talk about cats cause the lady he is dating seems to be a cat lover. The problem is that Josh doesn’t know many things about cats and he wants something interesting to tell to the girl about that topic and he decides to search some information in the searching dialog that is on the left top corner using voice commands. He just look for “cat curious information” and he checks quickly the answers until he finds one that may fit his purpose of impressing the girl.
+The problem is that after a while talking about cats the icon showing the mood of Josh partner starts to turn yellow (meaning uncomfortable) and a notification appears on the notification’s box telling Josh that he should change the topic of the conversation because the girl is starting to feel uncomfortable so he checks again the list of topics and chooses a different one.
+
+He chooses this time to talk about sports and the move to basketball a well known sport for him and of which is also fan his partner.
+
+After a while talking about sports and basketball the mood indicator of the screen turns to normal (green color) meaning that the girl is feeling comfortable again.
+
+The problem is that is getting late and Josh needs to go because has to work early on the next day and they decide to meet another day cause they both felt quite comfortable with each other.
+
+###Moving Keypath Scenario
+Josh and the girl talk about moving to a different place, she would like to go to a quiet park so Josh via voice command (Saying “Go to a park”) and the app scans the area to search the nearby parks. Then Josh selects one of them (using gestures) from the list of possibilities that the app has found.
+
+As soon as he selects it, the route to the park is loaded in the app and it starts giving him information about how to get to the park as a normal GPS for the car does.
+
+So they both Josh and the girl start the route and they keep with the conversation they were having. Josh realises that the app information about the route is shown in a very subtle way what he finds a very good idea because he wants to focus his attention on the girl and prefers the app not to be very intrusive. The next step of the route they are following is just shown with a little message below the map.
+
+After a while walking and talking they get to the park and the map starts just showing Josh position.
+
