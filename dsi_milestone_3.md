@@ -185,3 +185,21 @@ Upon review of the Functional and Data Elements list, we decided to make some mi
     5. A track will be shown whenever Josh selects a target place. Alternative paths can be taken by Josh.
     6. When following a path the indications like “Turn right”, “Turn left” … will be shown below the map in a very subtly fashion, with the letters as small as possible.
 
+##Sketches of the Interaction Framework (second pass)
+The sketches for the first pass of the interaction framework sketches can be found in the folder Prototypes/2nd Iteration.
+With the initial sketches in hand, we created a series of keypath scenarios to demonstrate the main ways the user can interact with the app.
+
+##Keypath scenarios (second pass)
+We modified the previous keypath scenarios to fit the current design.
+
+###Pre-date Keypath Scenario
+Josh is having a date this afternoon but he wants to prepare before so he starts the app in the pre-date mode (in which the information occupies the whole screen) because he wants to look for some information about the girl.
+
+So the app starts loading all the information about the girl that Josh is meeting today.
+When the information is ready Josh observes that there are several tabs in which the info is organized (social networks, previous partners, hobbies).
+
+He selects via voice command the social network tab (Saying “social network”) in which he wants to see how is the girls relation with his parents because Josh thinks that a person that has problems with his family do also tend to have problems in any friendship or love relation. He finds that the girl do usually post photos with her family which he finds a good thing.
+
+After a while surfing at the girl’s Facebook he wants to know more about the girl’s hobbies so he changes to that tab (Saying “Hobbies”). In it there is a list of the girl’s hobbies and he sees that the first of them is that she loves cats. He had suspected that when seeing her photos but now he is sure about it. The girl’s next hobby is playing basketball and the last two ones watching films and reading. Is then when Josh starts planning somehow some topics for the date and he feels prepared for it, but before meeting the girl he wants a last piece of information he wants to check the “previous partners” tab so he changes to it (Saying “previous partners”) and checks how their previous partners were. 
+
+There are three guys and all of them look normal. He realises that all of them are 3 years older than the girl exactly as Josh and that gives him a boost of confidence feeling ready for the date.
