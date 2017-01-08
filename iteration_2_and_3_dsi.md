@@ -8,9 +8,9 @@ Thanks to this approach we can work creatively and without any constraints from 
 
 ### Getting the information from context scenarios
 
-First we will focus on Josh, the primary persona defined in the milestone 2. As we defined, Josh has 4 problems. The reader could go to the previous milestone and see the problems, but we will also include them here and make some improvements.
+First we will focus on Josh, the primary persona defined in the milestone 2. As we defined, Josh has 4 problems. The reader could go to the previous milestone and see those problems, however we will also include them here to make some improvements.
 
-For making the **form factor** we will use most of the Josh problems. We have rewrite many problems from Josh to improve the design.
+We are using most of the Josh problems for making the **form factor**. We have rewrite some Josh problems to improve the final design.
 
 - Problem 1: Josh is uncomfortable and doesn’t know what to say.
 - Problem 2: The girl is bored of the place where they are and wants to go to do something else. She asks Josh for advice but he is in blank.
@@ -67,7 +67,7 @@ Talking about inputs, we have to note that the application also receives informa
 
 In this second phase of the iterative process we are taking into account mainly the requirements from the primary persona but also having some other requirements from the secondary personas (the ones we think are more important or critical). 
 
-During the first step on this third iteration we have added new visions to solve Josh problems. So it's advisable to revisit and adapt requirements to the new vision taking by the designers in this third iteration.
+During the first step on this second iteration we have added new visions to solve Josh problems. So it's advisable to revisit and adapt requirements to the new vision taking by the designers in this second iteration.
 
 In the following list you can see a list of the requirements we will take into account in the following steps. All of them are based on the requirements from the user but they have been adapted and also rewritten from the first iteration. We have prioritize the requirements from the primary persona but also we have included extra requirements from the secondary personas.
 
@@ -447,5 +447,3 @@ And now the user sees a list of topics to speak with the girl
 ![alt text](./sketches/topics.png "")
 
 We have checked that the design is valid taking into account the previous work for the milestone 2 and the keypaths.
-
-
