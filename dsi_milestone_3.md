@@ -690,6 +690,23 @@ And now the user sees a list of topics to speak with the girl
 
 ![Sketches topics](./sketches/topics.png "")
 
+And here we have included the rest of the pictures:
+
+![Home](./views/1_home.png "")
+![Configuration](./views/2_configuration.png "")
+![Configuration marked](./views/2_configuration_marked.png "")
+![Summary](./views/3_summary.png "")
+![Conversation topics](./views/4_conversation_topics.png "")
+![Conversation sentences](./views/5_conversation_sentences.png "")
+![Places](./views/6_places.png "")
+![Places booked](./views/7_places_booked.png "")
+![Navigation](./views/8_navigation.png "")
+![Navigation: Topics](./views/9_navigation_topics.png "")
+![Navigation: Sentences](./views/10_navigations_sentences.png "")
+![Navigation: Places](./views/11_navigation_places.png "")
+![Navigation: Places booked](./views/12_navigation_places_booked.png "")
+![Navigation: arrived](./views/13_navigation_arrived.png "")
+
 We have checked that the design is valid taking into account the previous work for the milestone 2 and the keypaths.
 
 # Interactive prototype
