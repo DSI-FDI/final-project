@@ -1,5 +1,5 @@
 ---
-title: Milestone 4 - Heuristic Evaluation
+title: Milestone 3 - Design Framework
 author:
   - García Castillo, Pedro
   - García Ferreiro, Jorge
@@ -8,7 +8,6 @@ author:
 rights: Creative Commons - BY-NC
 ---
 
-#Design Framework
 ##Plan and execution
 As we were all in different places for this phase, we had to take a highly distributed approach to this milestone’s work. Furthermore, due to poor connection, most of the time videochat wasn’t even an option, so we had to work asynchronously as well.
 
