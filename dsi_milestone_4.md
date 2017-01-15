@@ -73,7 +73,7 @@ In addition to that, we decided to go with Schneiderman's list of heuristics, be
 ## Research materials
 For this evaluation, every expert was provided with two different materials:
 
-- **The evaluation script,** which was taken from the keypath scenarios of the last iteration.
+- **The evaluation script**, which was taken from the keypath scenarios of the last iteration.
 - A link to the evaluation form, created using google form. So they can send directly their heuristic violations while using the application.
 
 ## Evaluator script
@@ -220,12 +220,63 @@ Fernando only submitted two messages to our system. However, he was proposing so
 	+ Heuristic: S03 (User control and freedom)
 	+ Severity: 3
 
-## Evaluator 3
+## Evaluator 3: Jorge
+
+Age: 21
+Name: Jorge
+
+Jorge was actively involved in the evaluation process, constantly asking for clarifications and directions and engaging with the moderator. He pointed out some heuristics violations, mostly having to do with the 8th heuristic and the user’s short-term memory:
+
+**Navigation map requires unnecessary attention**
+The indications of the arrow are enough to orient the user with the minimal intrusion possible, and hence the map would be unnecessary. Perhaps the estimated arrival time would be better suited for that spot in the interface.
+Where was it found: Navigation mode
+Heuristic: S08 (Short-term memory load)
+Severity: 3
+
+**Facebook information**
+When analyzing a person’s information, their Facebook profile picture and some important information from there could be displayed.
+Where was it found: Personal information
+Heuristic: S03 (Feedback)
+Severity: 2
+
+**Topic changing sentence suggestions**
+When the app suggests a change of topic, the listed phrases are too far from the original topic, and constitute too radical of a change to be natural in a conversation.
+Where was it found: Conversation
+Heuristic: S03 (Feedback)
+Severity: 5
+
+**Reservation confirmation**
+When making reservations for a place, the process does not allow a confirmation step before making a potentially costly reservation. The user would have to trust the app to know both people’s intentions and schedules beforehand.
+Where was it found: Moving view
+Heuristic: S05 (Error Handling)
+Severity: 7
+
 ## Evaluator 4
+Age: 21
+
+Name: Pablo
+
+Pablo was very active during the heuristic evaluation because he liked our app’s concept and he wanted to help us improve as much as possible but he didn’t found many things wrong in our app that we could really fix.
+
+	- **Possibility to customize some more the app**
+He wanted for example the possibility to decide how many suggested phrases about a theme you can see at the same time and the color of some of the dialogs background. He said that he would like to see this options and maybe some others to configure the app in the configuration tab.
+Where was it found: Configuration
+Heuristic: S07(Locus of control)
+Severity: 3
+
+	- **Being able to pause the app in the middle of a date**
+He said that maybe the possibility to stop the app in the middle of a date in a way that the girl doesn’t realize that you are using it would be nice. He said that it could be good whenever you feel exceeded by the app.
+Where was it found: The app in general
+Heuristic: S07(Locus of control)
+Severity: 2
+
+
+
+
+
 ## Evaluator 5
 # Debriefing
-
-We didn’t enough time to make the debriefing with the experts. However, some of them also gave us some ideas and tips to fix some problems while evaluating our design. This was included in the previous section with the tag `Feedback`. So we took into account their information and also our team discussed some of the problems from previous chapter.
+We didn’t have enough time to make the debriefing with the experts. However, some of them also gave us some ideas and tips to fix some problems while evaluating our design. This was included in the previous section with the tag `Feedback`. So we took into account their information and also our team discussed some of the problems from previous chapter.
 
 With those problems we started to figure out how to fix things in order to improve the user experience. And also, what are the key ideas we should focus on the future of our application.
 
@@ -235,9 +286,16 @@ In the next chapter we show you what are those changes we should fix in the futu
 
 # Final list of changes and priorities
 
-We have created a list of stuff to improve in the future of our application.
-- [LOW] Allow to change the navigation route depending on the user intentions (like staying longer time) or how does the girl feel.
-- [MEDIUM] Allow to cancel a reservation depending on a new plan.
-- [LOW] Record all the previous dates of the user. And show statics in the screen so the user can know how was the date, get statistics and further recommendations to develop the users dating abilities.
+We have created a list of stuff to improve in the future of our application:
+
+- **[LOW]** Allow to change the navigation route depending on the user intentions (like staying longer time) or how does the girl feel.
+- **[MEDIUM]** Allow to cancel a reservation depending on a new plan.
+- **[LOW]** Record all the previous dates of the user. And show statics in the screen so the user can know how was the date, get statistics and further recommendations to develop the users dating abilities.
+- **[LOW]** Replace map in navigation view with estimated time of arrival.
+- **[HIGH]** Refine the sentences to allow for a more open-ended conversation.
+- **[LOW]** Display a the date’s profile picture in the information page.
+- **[LOW]** Possibility to customize some more the app.
+- **[LOW]** Being able to pause the app in the middle of a date.
+
 
 
