@@ -27,7 +27,7 @@ In order to let the experts to use our prototype, we have created a ‘How to us
 
 ## interactive prototype: How to use it
 
-**Update (12/01/2aps017):** We have included new views for the navigation mode. So now the user can receive topics and sentences while walking. When you go to the navigation slide, the controlling tabs change. So please, continuous reading to know how to use the “navigation tabs”.
+**Update (12/01/2017):** We have included new views for the navigation mode. So now the user can receive topics and sentences while walking. When you go to the navigation slide, the controlling tabs change. So please, continuous reading to know how to use the “navigation tabs”.
 
 The prototype contains a sequence of slides, that will cover the normal scenario when dating. This is useful for the heuristic evaluation. However, for the user evaluation we needed a way to move between views so the user can move freely through the application. 
 
@@ -46,8 +46,9 @@ Tabs numbers (from left to right):
 7. Places
 8. Navigation
 
-And here is the visual explanation:
-![alt text](./photos/how_to_use_prototype.png "")
+See figure 1 (next page) to know visually how we placed the tabs.
+
+![Prototype main window with tabs names](./photos/how_to_use_prototype.png "")
 
 ###  Outside navigation mode tabs
 
