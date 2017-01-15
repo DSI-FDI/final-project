@@ -251,31 +251,46 @@ Where was it found: Moving view
 Heuristic: S05 (Error Handling)
 Severity: 7
 
-## Evaluator 4
-Age: 21
+## Evaluator 4: Pablo
+Age: 24
 
 Name: Pablo
 
 Pablo was very active during the heuristic evaluation because he liked our app’s concept and he wanted to help us improve as much as possible but he didn’t found many things wrong in our app that we could really fix.
 
-	- **Possibility to customize some more the app**
+- **Possibility to customize some more the app**
 He wanted for example the possibility to decide how many suggested phrases about a theme you can see at the same time and the color of some of the dialogs background. He said that he would like to see this options and maybe some others to configure the app in the configuration tab.
 Where was it found: Configuration
 Heuristic: S07(Locus of control)
 Severity: 3
 
-	- **Being able to pause the app in the middle of a date**
+- **Being able to pause the app in the middle of a date**
 He said that maybe the possibility to stop the app in the middle of a date in a way that the girl doesn’t realize that you are using it would be nice. He said that it could be good whenever you feel exceeded by the app.
 Where was it found: The app in general
 Heuristic: S07(Locus of control)
 Severity: 2
 
+## Evaluator 5: Ignacio
+Age:  21
 
+Name: Ignacio
 
+Ignacio first of all was very focused on what the monitor was explaining to him about the application. He easily understood all the concepts and commands without working too hard. He thinks that the application was very useful and all actions are very handy. He spent some minutes looking among the slides searching some errors or improvements we can make.
 
+- **"Misclick" in book option**
+He was concerned about the facilities of booking. He said that maybe in the conversation with the girl we are talking about a place and automatically booked it by accident. Also we cannot undo it.
+Where was it found: slide 24.
+Heuristic: S07(Locus of control), S06: (Reversal of actions).
+Severity: 7
 
-## Evaluator 5
+- **No more recommendations**
+He thinks it is not intuitive for the user’s point of view know that the topics are going to change, eventually, if we don’t select any.
+Where was it found: the whole application.
+Heuristic: S03(Feedback)
+Severity: 3
+
 # Debriefing
+
 We didn’t have enough time to make the debriefing with the experts. However, some of them also gave us some ideas and tips to fix some problems while evaluating our design. This was included in the previous section with the tag `Feedback`. So we took into account their information and also our team discussed some of the problems from previous chapter.
 
 With those problems we started to figure out how to fix things in order to improve the user experience. And also, what are the key ideas we should focus on the future of our application.
@@ -290,7 +305,7 @@ We have created a list of stuff to improve in the future of our application:
 
 - **[LOW]** Allow to change the navigation route depending on the user intentions (like staying longer time) or how does the girl feel.
 - **[MEDIUM]** Allow to cancel a reservation depending on a new plan.
-- **[LOW]** Record all the previous dates of the user. And show statics in the screen so the user can know how was the date, get statistics and further recommendations to develop the users dating abilities.
+- **[LOW]** Record all the previous dates of the user. And show statics in the screen so the user can know how was the date, get statistics and further recommendations to develop the user's dating abilities.
 - **[LOW]** Replace map in navigation view with estimated time of arrival.
 - **[HIGH]** Refine the sentences to allow for a more open-ended conversation.
 - **[LOW]** Display a the date’s profile picture in the information page.
