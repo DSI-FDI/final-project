@@ -8,7 +8,9 @@ author:
 rights: Creative Commons - BY-NC
 ---
 
-##Plan and execution
+# Iteration 1
+## Plan and execution
+
 As we were all in different places for this phase, we had to take a highly distributed approach to this milestone’s work. Furthermore, due to poor connection, most of the time videochat wasn’t even an option, so we had to work asynchronously as well.
 
 ##Form factor, posture and input methods
@@ -18,7 +20,7 @@ Outside of a date, just before it starts, the app could have a **sovereign postu
 
 Since the user will not be able to exercise much control over the application while in a date, the input methods will have to be indirect, such as hand gestures, head movements and voice commands. However, while in a date, the app has mainly a responsive functionality, which means that it will not require much input from the user.
 
-##Catalog of data elements
+## Catalog of data elements
 These elements have been extracted directly from the requriements.
 
 1. Map
@@ -44,7 +46,7 @@ These elements have been extracted directly from the requriements.
  * Easy to read.
  * Intermittent (it appears and disappears).
 
-##Functional elements
+## Functional elements
 ###Josh:
 - Connect (Action) with wikipedia to show biographies or historical facts (objects) that are interesting to know for the user (context).
 
@@ -83,7 +85,7 @@ These elements have been extracted directly from the requriements.
 
   1. We can see the emotional state of the other person permanently in the “main view”.
 
-##Functional groups and hierarchy (first pass)
+##Functional groups and hierarchy
 ###Pre-date view
 - There should be a field to search for the name of the date.
 - Information of his/her social media profiles is displayed and browsable.
@@ -105,10 +107,10 @@ These elements have been extracted directly from the requriements.
 - There should be a search bar to search for places to go.
 - There should be a map display, which contains the route to the selected location and suggestions for other locations to move to.
 
-##Sketch of the Interaction Framework (first pass)
+##Sketch of the Interaction Framework
 The sketches for the first pass of the interaction framework sketches can be found in the folder Prototypes/1st Iteration.
 
-##Keypath scenarios (first pass)
+##Keypath scenarios
 With the initial sketches in hand, we created a series of keypath scenarios to demonstrate the main ways the user can interact with the app.
 
 ###Pre-date Keypath Scenario
@@ -146,13 +148,14 @@ So they both start the route and carry on with the conversation they were having
 
 After a while walking and talking they get to the park and the map starts just showing Josh's position.
 
-##Validation scenarios (first pass)
+## Validation scenarios
 We decided not to do any validation scenario as we found them not very useful in our app.
 
 This step is usually thought to find some flaws in the design of very complex apps in terms of controls or having too many different views. It is also used to find missing functionalities that were thought but that never reached the sketches, so they aren’t missing in the final product.
 
 Our app only has a few functionalities and screens and our main focus is how to not to be very intrusive for the user while giving enough information in a subtle way.
 
+# Iteration 2
 ## First Iteration Takeaways
 
 After discussing the prototypes and keypath scenarios, we distilled a list of changes that we wanted the next iteration to have.
@@ -171,7 +174,6 @@ After discussing the prototypes and keypath scenarios, we distilled a list of ch
 - The search bar will be on the top-left side, and will display information with pictures taken from Wikipedia or other sources. Two examples are provided, being the second one better for our app:
 
 ![alt text](./photos/what_is_a_cpu.png "")
-
 
 ![alt text](./photos/benito_perez_galdos.png "")
 
@@ -253,7 +255,7 @@ A new team is in charge of the third iteration. Our approach will be different: 
 
 Thanks to this approach we can work creatively and without any constraints from prior work, so the value of the new ideas is higher. This is truly important in order to think on new concepts completely free.
 
-## 1. Form factor, postura and input method
+## Form factor, postura and input method
 
 ### Getting the information from context scenarios
 
@@ -310,7 +312,7 @@ As we said, the voice is one of the main sources that the augmented reality app 
 
 Talking about inputs, we have to note that the application also receives information from the outside world: gestures, facial expressions, voice of the girl, weather in the zone, reactions, etc. Although these are not input methods from the user who is using the application, this is extremely related and it is really useful to know what information the application sensors will receive.
 
-## 2. Define functional and data elements
+## Define functional and data elements
 
 ### Preparing the requirements
 
@@ -472,7 +474,7 @@ After defining the new requirements and also the data elements, we need to trans
 	3. The field value is changed.
 	4. The user exists.
 
-## 3. Functional groups and hierarchy
+## Functional groups and hierarchy
 
 In this iteration we are going to change the structure and content from the previous iteration. We are focusing more on the **two goals for the user**: getting information about the girl (flirting) and be successful while dating.
 
@@ -509,9 +511,8 @@ Chronological order:
 - Go to another place and book it.
 - Map navigator.
 
-## 4. Sketches iteration 2
-
-#### Design notes
+## Sketches iteration 3
+### Design notes
 
 Conceptually, we will divide in **three containers**: dating, flirting and configuration. By default, the application will be on flirting mode, but the user can change at any time.
 
@@ -523,13 +524,13 @@ However, in our sketches we will place the girl on the middle/right part of the 
 
 Visually, the application will be really minimalist and will have minimal elements. The 'views' are different layers that the application puts using augmented reality.
 
-#### New sketches
+### New sketches
 
 The user will only use the voice to navigate through the application. This is challenging but very interesting from the designing point of view.
 
 **Note:** Because of the pdf avaliable space, some of the sketches could appear in the next page. So please, if there is no sketch image in the current page, remember to check the next page to see the sketc.
 
-##### Main window
+#### Main window
 
 So the user starts the application with the main view.
 Here he can selects which mode he wants to use.
@@ -538,7 +539,7 @@ For example, the user says: "I want go flirting"
 
 ![Initial home screen](./sketches/1_initial.png "")
 
-##### Girl summery
+#### Girl summary
 
 The application uses the camera to analyze faces. If it's the first time the user see a girl, then a summary is shown. 
 
@@ -548,7 +549,7 @@ The summary contains all the important information. Also there is some extra inf
 
 ![Optional fields in the girl summary](./sketches/3_summery_optionals.png "")
 
-##### Places to make a date
+#### Places to make a date
 
 The user says: "Show me a list of places to eat" or if the user is having a date, then he can say some secret keywords like this: "Hey girl, I want to have a dinner with you", so the application recognizes the user purposes and then shows a list of places.
 
@@ -556,13 +557,13 @@ The places are selected taking into account the girl hobbies, experiences, backg
 
 ![Places to make a date](./sketches/4_place_to_date.png "")
 
-##### Make a reservation
+#### Make a reservation
 
 Then the user can say: "Let's go to Hard rock cafe". Then the application automatically make a reservation and also initializes the map (to see the map views you have to scroll down in this document).
 
 ![Confirmation screen after booking a place](./sketches/5_booked.png "")
 
-##### Account configuration
+#### Account configuration
 
 The user says "Go to configuration" and then he can configure some extra stuff that appears on the screen.
 
@@ -570,7 +571,7 @@ To active something the user says: "Activate show members of the family"
 
 ![Configuration screen](./sketches/6_configuration.png "")
 
-##### Conversation topics
+#### Conversation topics
 
 While dating, the application will show a list of topics to talk. This list only appears if the application detects the user is nervous, does not know what to say or the girl is bored.
 
@@ -578,20 +579,20 @@ When the user start talking on one of the topics, the application automatically 
 
 ![Conversation topics](./sketches/7_conversation_topics.png "")
 
-##### Sentences to say
+#### Sentences to say
 
 On any topic, the application proposes smart sentences to say about the topic.
 This feature can be deactivated from the configuration view.
 
 ![Conversation senteces about a topic](./sketches/8_sentences.png "")
 
-##### Emotional state
+#### Emotional state
 
 While dating the application shows the emotional state of the girl. Some of them can be: 'bored', 'happy', 'loved', 'calmy', 'aggressive'.
 
 ![Girl emotional state](./sketches/9_emotional_state.png "")
 
-##### Navigation map
+#### Navigation map
 
 After the user has selected a restaurant the application automatically starts the map navigation.
 
@@ -618,13 +619,13 @@ And we have removed the hearts and put a fixed warning about the state of the gi
 
 In general the first iteration was a good work but we have improved and simplified many stuff.
 
-##5. New keypaths and some validation
+## New keypaths and some validation
 
 In general the new sketches fits better with the keypath scenario. In this iteration we have redefined some of the previous keypath scenarios because the way of interacting with the application has changed slightly.
 
 Now we will write some new keypath scenarios for the new sketches and also writing new validation scenarios.
 
-#### Keypath 1: flirting
+### Keypath 1: flirting
 
 The user is alone at home and put the lenses. Then he goes to the university and see a beautiful girl. Then, the application automatically recognize her face and display all the girl information in the screen.
 
@@ -642,7 +643,7 @@ Then the application displays a message on the screen and says: 'Say: wow! Reall
 
 And the date was done thanks to our application!
 
-#### Keypath 2: dating
+### Keypath 2: dating
 
 So the tuesday, both were meeting on Hard Rock Cafe. Our man, put the application on dating mode, saying: 'Go on dating'.
 
@@ -676,21 +677,15 @@ In the future of our application we would like to also create the mobile app to 
 
 # Iteration 4
 
+## Plan and goals
+
 So from the previous iteration we have done many work and we are ready to start working on higher fidelity designs!
 
 We think there are some extra functionalities that could be added to the product, for example a catch liars detector. But we have decided not to work on new functionalities, because the core of the application is done and this new features do not add any new interesting things to our targeted personas.
 
-So now we are focusing on creating the higher fidelity designs. We have started to work from the mockups and this is the final result:
+## Higher fidelity designs
 
-The application will recognize the face of the girl and displays the information of the girl.
-
-![Sketches summary](./sketches/summery.png "")
-
-And now the user sees a list of topics to speak with the girl
-
-![Sketches topics](./sketches/topics.png "")
-
-And here we have included the rest of the pictures:
+So now we are focusing on creating the higher fidelity designs. We have started to work from the mockups. We have used photoshop for generating the views. This is the final result:
 
 ![Home](./views/1_home.png "")
 ![Configuration](./views/2_configuration.png "")
@@ -707,8 +702,8 @@ And here we have included the rest of the pictures:
 ![Navigation: Places booked](./views/12_navigation_places_booked.png "")
 ![Navigation: arrived](./views/13_navigation_arrived.png "")
 
-We have checked that the design is valid taking into account the previous work for the milestone 2 and the keypaths.
+We have checked that the designs are valid taking into account the previous work for the milestone 2 and the keypaths.
 
-# Interactive prototype
+## Interactive prototype
 
 **Update: 15 January 2016** We have created the rest of the views in high fidelity mode. So our prototype is ready! In order to see the rest of the views and the interactive prototype. Please, go to the following link: [Interactive prototype](https://docs.google.com/presentation/d/1XPGqq5IAzQ_EloxhJEwI2QHGyqXgwKXgpMEkmk5kC-I/edit?usp=sharing)
