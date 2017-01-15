@@ -227,31 +227,32 @@ Name: Jorge
 
 Jorge was actively involved in the evaluation process, constantly asking for clarifications and directions and engaging with the moderator. He pointed out some heuristics violations, mostly having to do with the 8th heuristic and the user’s short-term memory:
 
-**Navigation map requires unnecessary attention**
-The indications of the arrow are enough to orient the user with the minimal intrusion possible, and hence the map would be unnecessary. Perhaps the estimated arrival time would be better suited for that spot in the interface.
+- **Navigation map requires unnecessary attention**
+	+ The indications of the arrow are enough to orient the user with the minimal intrusion possible, and hence the map would be unnecessary. Perhaps the estimated arrival time would be better suited for that spot in the interface.
 Where was it found: Navigation mode
-Heuristic: S08 (Short-term memory load)
-Severity: 3
+	+ Heuristic: S08 (Short-term memory load)
+	+ Severity: 3
 
-**Facebook information**
-When analyzing a person’s information, their Facebook profile picture and some important information from there could be displayed.
+- **Facebook information**
+	+ When analyzing a person’s information, their Facebook profile picture and some important information from there could be displayed.
 Where was it found: Personal information
-Heuristic: S03 (Feedback)
-Severity: 2
+	+ Heuristic: S03 (Feedback)
+	+ Severity: 2
 
-**Topic changing sentence suggestions**
-When the app suggests a change of topic, the listed phrases are too far from the original topic, and constitute too radical of a change to be natural in a conversation.
+- **Topic changing sentence suggestions**
+	+ When the app suggests a change of topic, the listed phrases are too far from the original topic, and constitute too radical of a change to be natural in a conversation.
 Where was it found: Conversation
-Heuristic: S03 (Feedback)
-Severity: 5
+	+ Heuristic: S03 (Feedback)
+	+ Severity: 5
 
-**Reservation confirmation**
-When making reservations for a place, the process does not allow a confirmation step before making a potentially costly reservation. The user would have to trust the app to know both people’s intentions and schedules beforehand.
+- **Reservation confirmation**
+	+ When making reservations for a place, the process does not allow a confirmation step before making a potentially costly reservation. The user would have to trust the app to know both people’s intentions and schedules beforehand.
 Where was it found: Moving view
-Heuristic: S05 (Error Handling)
-Severity: 7
+	+ Heuristic: S05 (Error Handling)
+	+ Severity: 7
 
 ## Evaluator 4: Pablo
+
 Age: 24
 
 Name: Pablo
@@ -259,18 +260,19 @@ Name: Pablo
 Pablo was very active during the heuristic evaluation because he liked our app’s concept and he wanted to help us improve as much as possible but he didn’t found many things wrong in our app that we could really fix.
 
 - **Possibility to customize some more the app**
-He wanted for example the possibility to decide how many suggested phrases about a theme you can see at the same time and the color of some of the dialogs background. He said that he would like to see this options and maybe some others to configure the app in the configuration tab.
+	+ He wanted for example the possibility to decide how many suggested phrases about a theme you can see at the same time and the color of some of the dialogs background. He said that he would like to see this options and maybe some others to configure the app in the configuration tab.
 Where was it found: Configuration
-Heuristic: S07(Locus of control)
-Severity: 3
+	+ Heuristic: S07(Locus of control)
+	+ Severity: 3
 
 - **Being able to pause the app in the middle of a date**
-He said that maybe the possibility to stop the app in the middle of a date in a way that the girl doesn’t realize that you are using it would be nice. He said that it could be good whenever you feel exceeded by the app.
+	+ He said that maybe the possibility to stop the app in the middle of a date in a way that the girl doesn’t realize that you are using it would be nice. He said that it could be good whenever you feel exceeded by the app.
 Where was it found: The app in general
-Heuristic: S07(Locus of control)
-Severity: 2
+	+ Heuristic: S07(Locus of control)
+	+ Severity: 2
 
 ## Evaluator 5: Ignacio
+
 Age:  21
 
 Name: Ignacio
@@ -278,16 +280,16 @@ Name: Ignacio
 Ignacio first of all was very focused on what the monitor was explaining to him about the application. He easily understood all the concepts and commands without working too hard. He thinks that the application was very useful and all actions are very handy. He spent some minutes looking among the slides searching some errors or improvements we can make.
 
 - **"Misclick" in book option**
-He was concerned about the facilities of booking. He said that maybe in the conversation with the girl we are talking about a place and automatically booked it by accident. Also we cannot undo it.
+	+ He was concerned about the facilities of booking. He said that maybe in the conversation with the girl we are talking about a place and automatically booked it by accident. Also we cannot undo it.
 Where was it found: slide 24.
-Heuristic: S07(Locus of control), S06: (Reversal of actions).
-Severity: 7
+	+ Heuristic: S07(Locus of control), S06: (Reversal of actions).
+	+ Severity: 7
 
 - **No more recommendations**
-He thinks it is not intuitive for the user’s point of view know that the topics are going to change, eventually, if we don’t select any.
+	+ He thinks it is not intuitive for the user’s point of view know that the topics are going to change, eventually, if we don’t select any.
 Where was it found: the whole application.
-Heuristic: S03(Feedback)
-Severity: 3
+	+ Heuristic: S03(Feedback)
+	+ Severity: 3
 
 # Debriefing
 
