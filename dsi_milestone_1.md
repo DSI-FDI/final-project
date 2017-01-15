@@ -8,7 +8,7 @@ author:
 rights: Creative Commons - BY-NC
 ---
 
-# Research plan:
+# Research plan
 
 Our research plan will last two weeks. Starting on November 15 and finishing on November 29.
 
