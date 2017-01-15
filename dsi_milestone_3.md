@@ -1,3 +1,13 @@
+---
+title: Milestone 4 - Heuristic Evaluation
+author:
+  - García Castillo, Pedro
+  - García Ferreiro, Jorge
+  - Reyes Parrilla, Daniel
+  - Lorente Escobar, Borja
+rights: Creative Commons - BY-NC
+---
+
 #Design Framework
 ##Plan and execution
 As we were all in different places for this phase, we had to take a highly distributed approach to this milestone’s work. Furthermore, due to poor connection, most of the time videochat wasn’t even an option, so we had to work asynchronously as well.
@@ -518,6 +528,8 @@ Visually, the application will be really minimalist and will have minimal elemen
 
 The user will only use the voice to navigate through the application. This is challenging but very interesting from the designing point of view.
 
+**Note:** Because of the pdf avaliable space, some of the sketches could appear in the next page. So please, if there is no sketch image in the current page, remember to check the next page to see the sketc.
+
 ##### Main window
 
 So the user starts the application with the main view.
@@ -525,17 +537,17 @@ Here he can selects which mode he wants to use.
 
 For example, the user says: "I want go flirting"
 
-![alt text](./sketches/1_initial.png "")
+![Initial home screen](./sketches/1_initial.png "")
 
 ##### Girl summery
 
 The application uses the camera to analyze faces. If it's the first time the user see a girl, then a summary is shown. 
 
-![alt text](./sketches/2_summery.png "")
+![Girl summary with basic information](./sketches/2_summery.png "")
 
 The summary contains all the important information. Also there is some extra information that the user can show. This extra fields are configured in the configuration view (continuous reading).
 
-![alt text](./sketches/3_summery_optionals.png "")
+![Optional fields in the girl summary](./sketches/3_summery_optionals.png "")
 
 ##### Places to make a date
 
@@ -543,13 +555,13 @@ The user says: "Show me a list of places to eat" or if the user is having a date
 
 The places are selected taking into account the girl hobbies, experiences, background and so on.
 
-![alt text](./sketches/4_place_to_date.png "")
+![Places to make a date](./sketches/4_place_to_date.png "")
 
 ##### Make a reservation
 
 Then the user can say: "Let's go to Hard rock cafe". Then the application automatically make a reservation and also initializes the map (to see the map views you have to scroll down in this document).
 
-![alt text](./sketches/5_booked.png "")
+![Confirmation screen after booking a place](./sketches/5_booked.png "")
 
 ##### Account configuration
 
@@ -557,7 +569,7 @@ The user says "Go to configuration" and then he can configure some extra stuff t
 
 To active something the user says: "Activate show members of the family"
 
-![alt text](./sketches/6_configuration.png "")
+![Configuration screen](./sketches/6_configuration.png "")
 
 ##### Conversation topics
 
@@ -565,20 +577,20 @@ While dating, the application will show a list of topics to talk. This list only
 
 When the user start talking on one of the topics, the application automatically hide all the topics from the screen
 
-![alt text](./sketches/7_conversation_topics.png "")
+![Conversation topics](./sketches/7_conversation_topics.png "")
 
 ##### Sentences to say
 
 On any topic, the application proposes smart sentences to say about the topic.
 This feature can be deactivated from the configuration view.
 
-![alt text](./sketches/8_sentences.png "")
+![Conversation senteces about a topic](./sketches/8_sentences.png "")
 
 ##### Emotional state
 
 While dating the application shows the emotional state of the girl. Some of them can be: 'bored', 'happy', 'loved', 'calmy', 'aggressive'.
 
-![alt text](./sketches/9_emotional_state.png "")
+![Girl emotional state](./sketches/9_emotional_state.png "")
 
 ##### Navigation map
 
@@ -590,8 +602,8 @@ The following sketches are the different indications the user will receive: go l
 
 When the user arrives, the application automatically hides the navigation mode.
 
-![alt text](./sketches/10_navigation_straight.png "")
-![alt text](./sketches/11_navigation_left.png "")
+![Navigation mode: go straight](./sketches/10_navigation_straight.png "")
+![Navigation mode: go left](./sketches/11_navigation_left.png "")
 
 ### Comparing sketches with the first iteration
 
@@ -673,10 +685,14 @@ So now we are focusing on creating the higher fidelity designs. We have started 
 
 The application will recognize the face of the girl and displays the information of the girl.
 
-![alt text](./sketches/summery.png "")
+![Sketches summary](./sketches/summery.png "")
 
 And now the user sees a list of topics to speak with the girl
 
-![alt text](./sketches/topics.png "")
+![Sketches topics](./sketches/topics.png "")
 
 We have checked that the design is valid taking into account the previous work for the milestone 2 and the keypaths.
+
+# Interactive prototype
+
+**Update: 15 January 2016** We have created the rest of the views in high fidelity mode. So our prototype is ready! In order to see the rest of the views and the interactive prototype. Please, go to the following link: [Interactive prototype](https://docs.google.com/presentation/d/1XPGqq5IAzQ_EloxhJEwI2QHGyqXgwKXgpMEkmk5kC-I/edit?usp=sharing)
