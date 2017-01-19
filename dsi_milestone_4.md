@@ -168,6 +168,7 @@ Jeans was really active on the process. He asked some questions and provided use
 	+ (Feedback) Shortcuts are not really needed, so I do not find a real error in this case. But a shortcut could help to switch the settings while a conversation. But if I assume that the glasses, know what information I need because of smartness, such shortcuts will not really needed.		
 	+ Heuristic: S02
 	+ Severity: 1
+	+ The actual problem was that one cannot adjust the filters without losing focus completely. Severity updated to 4.
 
 - **Consistency**
 	+	(Feedback) The glasses are smart and therefore the sequence of informations and dialogs will fit my needs. -> There will be no violation here.
@@ -182,7 +183,7 @@ Jeans was really active on the process. He asked some questions and provided use
 - **Closure**
 	+ There is no obvious ending in the application. After a night of dating a girl, it could be nice to get statistics and further recommendations to develop the user's dating abilities.		
 	+ Heuristic: S04 (Closure)
-	+ Severity: 1
+	+ Severity: 7
 
 - **Errors**
 	+ (Feedback) The app is smart. There will not be any bad errors, I assume.
@@ -203,6 +204,7 @@ Jeans was really active on the process. He asked some questions and provided use
 	+ (Feedback) I detected that no short-term memory is needed. It is perfect for the situation because I do not want to remember anything when I use the app.		
 	+ Heuristic: S08 (Short-term memory load)
 	+ Severity: 1
+	+ The information about the girl should not have to be recorded in memory, but rather refreshed or suggested via topics.
 
 ## Evaluator 2: Fernando
 
@@ -245,12 +247,14 @@ Where was it found: Personal information
 Where was it found: Conversation
 	+ Heuristic: S03 (Feedback)
 	+ Severity: 5
+	+ They are not representative of the app.
 
 - **Reservation confirmation**
 	+ When making reservations for a place, the process does not allow a confirmation step before making a potentially costly reservation. The user would have to trust the app to know both people’s intentions and schedules beforehand.
 Where was it found: Moving view
 	+ Heuristic: S05 (Error Handling)
 	+ Severity: 7
+	+ Better to add cancelation option after reservation.
 
 ## Evaluator 4: Pablo
 
@@ -265,12 +269,20 @@ Pablo was very active during the heuristic evaluation because he liked our app�
 Where was it found: Configuration
 	+ Heuristic: S07(Locus of control)
 	+ Severity: 3
+	+ Customizability is good, in the settings. 
 
 - **Being able to pause the app in the middle of a date**
 	+ He said that maybe the possibility to stop the app in the middle of a date in a way that the girl doesn’t realize that you are using it would be nice. He said that it could be good whenever you feel exceeded by the app.
 Where was it found: The app in general
 	+ Heuristic: S07(Locus of control)
 	+ Severity: 2
+	+ Currently the app can not show anything, but not stop listening. Most of the evaluators didn’t have an issue with that. However, they did consider it a violation of locus of control.
+	
+- **The name “Configuration” is misleading**
+	+ Currently, this is actually just filters, and not any preferences such as refresh frequency, or whatever. Perhaps another name would be better suited.
+	+ Where was it found: The app in general
+	+ Heuristic: S03(Feedback)
+	+ Severity: 4
 
 ## Evaluator 5: Ignacio
 
@@ -285,12 +297,14 @@ Ignacio first of all was very focused on what the monitor was explaining to him 
 Where was it found: slide 24.
 	+ Heuristic: S07(Locus of control), S06: (Reversal of actions).
 	+ Severity: 7
+	+ Cancel option, addressed earlier.
 
 - **No more recommendations**
 	+ He thinks it is not intuitive for the user’s point of view know that the topics are going to change, eventually, if we don’t select any.
 Where was it found: the whole application.
 	+ Heuristic: S03(Feedback)
 	+ Severity: 3
+	+ Later not considered a problem because the app would refresh the suggestions constantly.
 
 # Debriefing
 
