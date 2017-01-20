@@ -149,6 +149,14 @@ Vision statement: A Wikipedia’s biography of the famous person, historical fac
 
 Vision statement: A word specifying the emotional state of the other person will be shown always at the bottom-center of the interface.
 
+### Expectations
+
+Josh has known a very beautiful girl the last weekend in a club. He has begun to talk to her a week ago by whatsapp. It is the moment of meeting her in person, the problem is that he doesn’t know her very well so he puts on the contact lenses and search for hobbies of the aforementioned girl, let’s call her Anne. Now that he knows exactly where to date he chats in whatsapp in order to finish the proposition. Anne accepts because she really wants to go to that place and she likes Josh.
+
+After a day they meet in a really cool rock bar in Madrid, where they are going to buy some drinks. Josh would like that Anne doesn’t realize that he is using the app so it seems to be natural.
+
+He also expects those notifications to be away of Anne’s face to ignore them and continue the conversation if he wants. Also he thinks that the app will know what to notify in every moment without making evident inputs so he won’t become nervous or weird.
+
 ### Context scenarios
 
 Today Josh is walking to a bar where he is going to have a date with a very beautiful girl called Anne. He puts on his e-ContactLenses and starts to improve his probability of success in his day. John first see Anne’s hobbies and biography before getting into the bar so he knows beforehand some useful information.
@@ -165,14 +173,6 @@ After some more minutes Anne’s was tired of the conversation and the place whe
 Josh didn’t know any cool square or maybe avenue near to their location. He started the map on the app and decided to go to a beautiful banks on the sea promenade, following every step indicated by the app.
 
 When they arrived a notification was shown telling him that it is the moment for kissing her. They kissed and end of the date.
-
-### Expectations
-
-Josh has known a very beautiful girl the last weekend in a club. He has begun to talk to her a week ago by whatsapp. It is the moment of meeting her in person, the problem is that he doesn’t know her very well so he puts on the contact lenses and search for hobbies of the aforementioned girl, let’s call her Anne. Now that he knows exactly where to date he chats in whatsapp in order to finish the proposition. Anne accepts because she really wants to go to that place and she likes Josh.
-
-After a day they meet in a really cool rock bar in Madrid, where they are going to buy some drinks. Josh would like that Anne doesn’t realize that he is using the app so it seems to be natural.
-
-He also expects those notifications to be away of Anne’s face to ignore them and continue the conversation if he wants. Also he thinks that the app will know what to notify in every moment without making evident inputs so he won’t become nervous or weird.
 
 ### Requirements
 
