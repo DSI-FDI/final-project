@@ -243,4 +243,21 @@ After a while walking on the riverside the app announces Aaron that the girl is 
 - Recognize gestures on the others person face to know when is feeling comfortable/uncomfortable on a theme or in a place (other). 
 - Show (Action) the information (Object) in a way that is not very intrusive because the one using it (Context) has to be able to follow the app info at the same time that is having a date with someone.
 
+## Final list of requirements
 
+##Josh
+- Connect (Action) with wikipedia to show biographies or historical facts (objects) that are interesting to know for the user (context).
+- Connect (Action) to every social network to subtract the personal information of the hobbies of the target girl (object) before the date (context).
+- Connect (Action) to Google Maps (object) when requested by the user (context).
+- Communicate (action) with the e-ContactLenses (object) in any moment in the date (context). 
+
+##Helene
+- Display (action) a box (object) to see all the previous relationships of the guy and see the comments of their ex-girlfriends beforehand (context).
+- She wants to know if the guy is trustworthy, so the app has to notify(action) this information and the reasons(object) in advance(context). So Helene does not waste the time.
+- The app should notify (Action) if the guy (object) is looking for a long term relationship during the date (context).
+- The app has to analyze (action) the user gestures and face (object) and find if the guy is starting to fall in love (action) at every moment (context).
+- It should search (action) for common hobbies(object) and propose new topics (action) to Helene in the screen when the conversation stacks (context).
+
+##Aaron
+- Recognize gestures on the others person face to know when is feeling comfortable/uncomfortable on a theme or in a place (other). 
+- Show (Action) the information (Object) in a way that is not very intrusive because the one using it (Context) has to be able to follow the app info at the same time that is having a date with someone.
