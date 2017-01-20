@@ -149,7 +149,7 @@ Vision statement: A Wikipedia’s biography of the famous person, historical fac
 
 Vision statement: A word specifying the emotional state of the other person will be shown always at the bottom-center of the interface.
 
-### Expectations
+### Identifying Josh expectations
 
 Josh has known a very beautiful girl the last weekend in a club. He has begun to talk to her a week ago by whatsapp. It is the moment of meeting her in person, the problem is that he doesn’t know her very well so he puts on the contact lenses and search for hobbies of the aforementioned girl, let’s call her Anne. Now that he knows exactly where to date he chats in whatsapp in order to finish the proposition. Anne accepts because she really wants to go to that place and she likes Josh.
 
@@ -157,7 +157,7 @@ After a day they meet in a really cool rock bar in Madrid, where they are going 
 
 He also expects those notifications to be away of Anne’s face to ignore them and continue the conversation if he wants. Also he thinks that the app will know what to notify in every moment without making evident inputs so he won’t become nervous or weird.
 
-### Context scenarios
+### Josh context scenarios
 
 Today Josh is walking to a bar where he is going to have a date with a very beautiful girl called Anne. He puts on his e-ContactLenses and starts to improve his probability of success in his day. John first see Anne’s hobbies and biography before getting into the bar so he knows beforehand some useful information.
 
@@ -174,7 +174,7 @@ Josh didn’t know any cool square or maybe avenue near to their location. He st
 
 When they arrived a notification was shown telling him that it is the moment for kissing her. They kissed and end of the date.
 
-### Requirements
+### Josh requirements
 
 - Connect (Action) with wikipedia to show biographies or historical facts (objects) that are interesting to know for the user (context).
 - Connect (Action) to every social network to subtract the personal information of the hobbies of the target girl (object) before the date (context).
@@ -216,13 +216,13 @@ Our app tells Helene that the man is starting to fall in love. So she was happy 
 - It should search (action) for common hobbies(object) and propose new topics (action) to Helene in the screen when the conversation stacks (context).
 
 ## Aaron
-### Expectations
+### Identifying Aaron expectations
 
 Aaron is not a shy man so he feels quite comfortable while dating with a girl but he has another problem he had some problematic relationships in the past and since then he likes to know some information about the past of the girl he dates before deciding to continue with her. That’s why he would find very useful to have access to that.
 
 Also he likes the program to give all the information at the same time he is having the date but in a fashion that he can focus half of his attention on each the program and the girl. He doesn’t want many information to be shown on the screen because he thinks he can get distracted easily.
 
-### Context scenario
+### Aaron context scenario
 
 A couple days ago Aaron met a girl online and today is going to be the first day they meet in person, Aaron proposed to meet in one of his favourites art galleries and the girl accepted the invitation.
 
@@ -238,7 +238,7 @@ Then the app suggests Aaron to change the place because they have been talking a
 
 After a while walking on the riverside the app announces Aaron that the girl is showing some clues that she is getting bored and that he should finish the date there and just meet another day. Aaron follows its advice and they talk about meeting on weekend for a lunch in a new restaurant in the City Center.
 
-### Requirements
+### Aaron Requirements
 
 - Recognize gestures on the others person face to know when is feeling comfortable/uncomfortable on a theme or in a place (other). 
 - Show (Action) the information (Object) in a way that is not very intrusive because the one using it (Context) has to be able to follow the app info at the same time that is having a date with someone.
