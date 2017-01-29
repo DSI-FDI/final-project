@@ -9,6 +9,9 @@ rights: Creative Commons - BY-NC
 ---
 
 # Evaluation plan
+
+TODO
+
 # User evaluation report
 
 ### User 1
