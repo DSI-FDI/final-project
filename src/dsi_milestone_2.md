@@ -9,9 +9,12 @@ rights: Creative Commons - BY-NC
 ---
 
 # Modelling
-## Plan and Execution
 
-For this part of the design process we gathered all the artifacts generated in the Research phase and tried to create meaningful groups of information. For that, we chose the bottom-up approach, since it was the most convenient for a distributed online workflow. In addition to that, our data was already skewed towards certain trends and populations (Undergraduate male) and therefore we thought that it wouldn’t be hard to identify clusters of behavioral variables.
+## Introduction
+
+For this part of the design process we have gathered all the artifacts generated in the Research phase, and have tried to create meaningful groups of information. For that, we have chosen the bottom-up approach, since it was the most convenient for a distributed online workflow. In addition to that, our data is already skewed towards certain trends and populations (Undergraduate male), and therefore we think that it won’t be hard to identify clusters of behavioral variables.
+
+## Plan and Execution
 
 During the modeling phase and after identifying the behavioral variables, we came to the realization that we had not specified the name of the users to which the concrete factoid applied, but instead we were writing statements such as “One male user thinks that…” or “Most users said that…”. Therefore, the classification of attributes according to the class notes (with the names of the users in the X axis of the table) was not going to be possible. Instead, we proposed several alternatives:
 
