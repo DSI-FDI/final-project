@@ -12,7 +12,7 @@ rights: Creative Commons - BY-NC
 
 ## Introduction
 
-For this part of the design process we have gathered all the artifacts generated in the Research phase, and have tried to create meaningful groups of information. For that, we have chosen the bottom-up approach, since it was the most convenient for a distributed online workflow. In addition to that, our data is already skewed towards certain trends and populations (Undergraduate male), and therefore we think that it won’t be hard to identify clusters of behavioral variables.
+For this part of the design process we have gathered all the artifacts generated in the Research phase, and have tried to create meaningful groups of information. For that, we will use the bottom-up approach, since it was the most convenient for a distributed online workflow. In addition to that, our data is already skewed towards certain trends and populations (Undergraduate male), and therefore we think that it won’t be hard to identify clusters of behavioral variables.
 
 ## Plan and Execution
 
