@@ -10,14 +10,17 @@ rights: Creative Commons - BY-NC
 
 # Research plan
 
-Our research plan will last two weeks. Starting on November 15 and finishing on November 29.
+## Introduction
 
-As we wanted to focus our application on 18 to 22 years old university undergraduate boys and girls who are not experts on dating and want to improve their abilities to meet and to flirt with people.
-We focus on undergraduate students because it’s the period when most of the young people starts their romantic relationships. So it’s the best time when we can help them.
-That’s why we planned to look mainly for university students and that’s why most of our interviews were done on a faculty.
+Our research will last two weeks, starting on November 15 and finishing on November 29.
 
-We had expected to have several interviews because young people would find our idea interesting but at the same time we expected them to be really short in duration.
+We want to focus our application on 18 to 22 years old university undergraduate boys and girls who are not experts on dating and want to improve their abilities to meet and to flirt with people.
+We focus on undergraduate students because it’s the period when most of the young people start their romantic relationships. So it’s the best time when we can help them.
+That’s why we plan to look mainly for university students and that’s why most of our interviews were done on a faculty.
 
+We expect to have several interviews because we think that young people will find our idea interesting, but at the same time we expected them to be really short in duration.
+
+## General results
 
 When we talk about the actual interviews we have two very different sets:
 A group of five people that we interviewed on the street and gave us just around 5-10 minutes interviews from which we got a basic view about what people thinks of this kind of apps and what they do expect about em.
