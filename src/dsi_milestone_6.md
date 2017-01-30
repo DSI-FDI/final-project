@@ -9,8 +9,89 @@ rights: Creative Commons - BY-NC
 ---
 
 # Evaluation plan
+## Identify the purpose and goals of the evaluation
 
-TODO
+We want to evaluate how the candidate users of our application will interact and interpret our new disruptive interface so we can analyze what are the main problems they could have while using our application. 
+
+In the next part, we will define a set of research questions to specify what are the precise pieces of information we are looking for in this evaluation.
+
+We need to do this evaluation in order to validate our design concepts and also the overall idea of our application. Also we want to check what are the feelings of the users interacting with the product, and it it truly allowed the users to improve their love lives. As a secondary goal, we wanted to gather information about the general feeling towards the app, as the research showed that it could potentially be considered intrusive. In general, we want to test our application with **real users** for **usefulness** and **acceptance** of our target audience.
+
+## Specific research questions
+
+We want to create a set of 5-10 research questions that are aligned with our goals in this evaluation. They aim to be specific, precise and measurable. The data gathered in the interviews should help us determine answers to these questions.
+ 
+* Can they know why the emotion state of the girl changes during the date?
+* How well do users interpret the list of topics?
+* Do the users know how to pick one conversation topic and start talking?
+* Do the users understand that the list of topics/sentences are ordered by the other person's preference?
+* Do they understand the different modes (dating, flirting, configuration) of the application?
+* Is it easy to book a place (restaurant or club)?
+* Do users always find the information they need?
+* Do users know how to interpret the navigation mode?
+* Is it easy to operate the controls with voice?
+* Are application flows easy to understand?
+
+## Identify the requirements for participants
+
+We aim for people of these characteristics:
+
+* A person who is finding a long-term relationship.
+* Student or young boy/girl who is insecure and doesn’t know how to flirt.
+* A person who doesn’t have initiative or is uncomfortable proposing plans.
+* A person who likes talking but doesn’t know how to be nice with a girl/boy.
+* He/she doesn’t interpret well the non-verbal messages.
+* A person who has some experience dating. So they know what are the things they are looking for in a girl.
+
+## Describe the experimental design
+
+Due to the focus of our application we think the **scenario tasks** are the best to give the user the freedom and information to use our application. So we don’t want to infer in the way he/she interacts with our product.
+
+During the evaluation we will only provide some of the following scenario tasks:
+
+* Imagine you are in the university library. A girl starts talking with you. Your goal is getting as much information about the girl as you can and create a first good impression.
+* You’re in a club and see a beautiful girl, your goal is dating with her and go to another place.
+* It’s thursday and you’re eating in the faculty. You see a beautiful girl so you put on your Visualdating lenses. Your goal is to get a date with the girl.
+
+## Prepare the evaluation environment
+
+The session will be held in two places. The first one is the library rooms of the Computer science college and the other will be in a classroom. Some of the interviews will be on the library room and others in the class. So we can make tests in two different environments.
+
+The interviews will have a moderator and a user. Another member of the team will be controlling the prototype in the background and the two remaining members will be listening and providing support for any contingency. Also we want to try one interview with 2 moderators (the last one), so we can experiment how well it goes.
+
+Both places have a projector, so we will put the prototype in a big screen so we can simulate the real world. We will use Quicktime in a mac for screen recording, to correlate it with the user reactions, and a Sony camera to record the users, so we can analyze their reactions.
+
+
+## Conduct the evaluation sessions and moderator’s tasks
+
+Our application is really experimental so we don’t want to contaminate the interview process. The moderator should only provide the minimum indications and let the users move freely through the application. Also the moderator must ask for clarification when something is not clear and also try to make the users think-aloud and express themselves. 
+
+* **What information will the moderator give?** The application is controlled with voice commands. It will help you dating. It’s augmented reality so you will use this app in the real world. You should act like you’re dating a real girl. Don’t talk to the app, talk to the girl and the app will interpret you.
+* **Should the moderator help the users if they get stuck?** No. The moderator should try to **ask questions** to the user about the functionality, but never resolve the problem. He should let the user solve the situation.
+* **Under what conditions is the intervention acceptable?** Only when the user is not interpreting correctly the indications or when the user is truly nervous. Also, the first reaction of the moderator should be to remind the user to think-aloud.
+
+During the interviews we should enforce the interviewee to think-aloud. The moderator should remind the user to do it. The guy controlling the prototype should be coordinated with the interviewee and change the screen depending on the situation and user decisions.
+
+## Find and select participants
+
+We have selected a list of users who fit in our requirements. We mainly looked for young people. We knew them so we were sure that they were the target people.
+
+In total, we have gathered 4 students (1 girl and 3 boys). The average age is 20 years old. These are the main features of all the people:
+
+* **Esther:** lesbian, good student, looking for a long-term relationship.
+* **Raul:** heterosexual, introvert, very smart, lonely guy.
+* **Pablo:** heterosexual, shy, video games freak, normal intelligence but hard worker.
+* **Roberto:** heterosexual, indecisive, has experience with dating and doesn’t have a clear academic path in mind.
+
+## Prepare materials for evaluation
+
+We have talked before about the script and orientations the moderator should give. We have collected here the final result:
+
+* **Script for prior orientation**: “Application that is controlled with voice commands. The app will help you dating. It’s virtual reality so you will use this app in the real world. You should act like you’re dating with a girl. Don’t talk to the app, talk to the girl and we will interpret you.”. And then we provided some help to meet the goals (filling the keypaths scenarios). This part will be free for each of the moderators, so we don’t have a fixed plan. Instead, we will examine different scenarios.
+
+* **Tools for collecting data** Video camera + microphone, mac screenshot capture (quicktime), google slides for making the prototypes, projector (provided by the university), microphone and paper notes.
+
+* **Prototypes to be evaluated** From the previous 	prototype for the “heuristic evaluation” we have made many improvements including more use cases and scenarios (conversation topics, navigation mode, etc).
 
 # User evaluation report
 
@@ -462,3 +543,7 @@ TODO
 * In the places to book, making more evident what are her favourite places. So make them in different sizes.
 * Changing the way the girl favorite restaurant is shown. (Adding a big tag, or an icon).
 * Notify when the girl changes the opinion (like going to a different place).
+
+## Final thoughts after evaluating the results
+
+In general, we are very satisfied with the results of the evaluations. As it is obvious from the data, we answered every question in a satisfactory manner, and scored high on most of them. More importantly, we have a list of **concrete** usability problems that most of the users had (such as the timing of reservations), and a list of concrete **actions** that we could take to fix them. Now what remains is to iterate on different solutions for these small problems to make the design as perfect as it can be.
