@@ -471,7 +471,7 @@ We have talked before about the script and orientations the moderator should giv
 * He was nervous and stuttered when he spoke.  
 * He was unable to apply himself to a specific context 
 * His interview was really hard and the interviewee had serious difficulties. Specially, he had problems with the think-aloud technique. 
-* He treated the application like a Roleplaying game (where you have to pick and follow strategies and turns). 
+* He treated the application like a Role-playing game (where you have to pick and follow strategies and turns). 
 * He needed a lot of support and help.  
 * The interviewee was influenced by his personal background and was reluctant to use the application. 
 * The interview was interrupted and this could have affected the performance of the user while using the application (for example by increasing his nervousness).
