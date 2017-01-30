@@ -372,13 +372,13 @@ TODO
 **Positives:**
 
 * Once he got a hang of the interaction with the app, he assimilated new functionality very quickly.
-* He liked all the information the app could provide about the girl (relationship status, hobbies...).
-* He noticed most of the small tweaks on the design framework, like the different sizes and orderings for the topics and the emotion indicator. He missed the favorite mark in the Hard Rock café, though.
+* He appreciated all the information the app could provide about the girl (relationship status, hobbies...).
+* He noticed most of the small tweaks on the design framework, like the different sizes and orderings for the topics and the emotion indicator. The only thing he missed was an indicator mark for the girl's favourite in the booking suggestions.
 
 **Negatives:**
 
 * The responsiveness of the app was a challenge to get used to.
-* The sentences were too constraining.
+* The suggested sentences were too constraining.
 * He expected a bit more interactivity from the prototype, which took him out of the experience and made him nervous at times.
 * He said the app was "very _Black Mirror_", which has negative connotations.
 
@@ -389,17 +389,17 @@ TODO
 * The interviewee was unfocused on the interview goals.
 * He was nervous and stuttered when he spoke.  
 * He was unable to apply himself to a specific context 
-* his interview was really hard and the interviewee had serious difficulties. For example, He had problems doing the  think-aloud technique.. 
-* He treated the application like a Rol game (where you have to pick and follow strategies).. 
+* His interview was really hard and the interviewee had serious difficulties. Specially, he had problems with the think-aloud technique. 
+* He treated the application like a Roleplaying game (where you have to pick and follow strategies and turns). 
 * He needed a lot of support and help.  
 * The interviewee was influenced by his personal background and was reluctant to use the application. 
-* The interview was interrupted and this could have affected the performance of the user while using the application (for example in his nervousness)
+* The interview was interrupted and this could have affected the performance of the user while using the application (for example by increasing his nervousness).
 
 **Positives:**
 
-* Interest in the application and trying to learn how to use it.
-* Blocked on different stages of the application.
-* Concentrate in other stuff or trying to read/understand everything carefully
+* He was interested in the application and trying to learn how to use it.
+* He was blocked on different stages of the application, which gave us great insight about potential usability problems.
+* Concentrate in other stuff or trying to read/understand everything carefully.
 * He was slow to react due to the fear of failure. 
 * He found it difficult to remember functionalities. 
 
@@ -414,18 +414,18 @@ TODO
 #### User 4: Final conclusions
 
 **Notes on the interview:**
-* He understand very well the indications on the interview.
-* We didn’t provide many information and he got it well.
+* He understood very well the indications on the interview.
+* We didn’t provide much information and he got it well.
 * He was relaxed and confident.
-* Changing the place to a class was better. There were more space and he was more relaxed.
-* This was the last interview and we were better synchronised and had more experience.
-* The 2-moderator interview worked really well and they did a great team together.
-* The prototype *man in the shadow* worked well with the user goals.
+* Changing the location from a library room to a classroom was better. There was more space and he was more relaxed.
+* This was the last interview, we were better synchronised and had more experience.
+* The 2-moderator interview worked really well and they formed a great team together.
+* The *Wizard Of Oz* prototyping technique worked well with the user goals.
 
 **Positives:**
 * He made a very good think-aloud process.
-* He got that different sizes mean more importance (and girl preferences).
-* He had more experience when dating.
+* He understood that different sizes in the suggestions meant more different in the topics (and girl preferences).
+* He had more experience when dating, so he was able to not be bogged down in details.
 * He was very active and asked many questions. But we didn’t provide the result, just some tips. So the user could find his own solutions.
 * He liked the sentences and proposed topics.
 * He didn’t feel awkward and he enjoyed the experience.
